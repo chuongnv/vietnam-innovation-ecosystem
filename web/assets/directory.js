@@ -57,7 +57,7 @@
     return [a[k]];
   }
   function matches(a, skip) {
-    if (st.q) { var ws = norm(st.q).split(/\s+/).filter(Boolean), h = hay(a); for (var i = 0; i < ws.length; i++) if (h.indexOf(ws[i]) < 0) return false; }
+    if (st.q) { var ws = norm(st.q).split(/\s+/).filter(Boolean), h = hay(a); for (var i = 0; i < ws.length; i++) if (!VIE.hit(h, ws[i])) return false; }
     for (var j = 0; j < KEYS.length; j++) {
       var k = KEYS[j]; if (k === skip || !st[k].length) continue;
       var v = val(a, k);
@@ -181,7 +181,7 @@
     var q = $("q").value.trim(), ul = $("sugg"); ul.replaceChildren(); sel = -1;
     if (q.length < 2) { ul.hidden = true; $("q").setAttribute("aria-expanded", "false"); return; }
     var ws = norm(q).split(/\s+/), nq = norm(q);
-    var hits = all.filter(function (a) { var h = hay(a); return ws.every(function (w) { return h.indexOf(w) >= 0; }); })
+    var hits = all.filter(function (a) { var h = hay(a); return ws.every(function (w) { return VIE.hit(h, w); }); })
       .sort(function (a, b) { var an = norm(VIE.name(a)).indexOf(nq) === 0 ? 0 : 1, bn = norm(VIE.name(b)).indexOf(nq) === 0 ? 0 : 1; return an - bn || score(b) - score(a); }).slice(0, 7);
     hits.forEach(function (x, k) {
       var li = VIE.el("li"); li.setAttribute("role", "option"); li.id = "sg" + k;

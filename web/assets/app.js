@@ -66,7 +66,10 @@
     name: function (a) { return (lang === "en" && a.name.en) || a.name.vi; },
     root: document.documentElement.getAttribute("data-root") || "/",
     load: function (f) { return fetch((document.documentElement.getAttribute("data-root") || "/") + "data/" + f).then(function (r) { if (!r.ok) throw new Error(f); return r.json(); }); },
-    el: function (tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; }
+    el: function (tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; },
+    /* Từ tìm (đã bỏ dấu) có trong chuỗi h không. Từ ngắn (≤ 3 ký tự) phải khớp ở đầu một từ,
+       nếu không "ai" sẽ khớp "đại", "hải", "mại" và trả về gần hết danh bạ. */
+    hit: function (h, w) { return w.length > 3 ? h.indexOf(w) >= 0 : new RegExp("(^|[^a-z0-9])" + w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).test(h); }
   };
   document.addEventListener("DOMContentLoaded", function () {
     var lb = document.getElementById("lang-toggle");
@@ -104,7 +107,7 @@
     inp.addEventListener("input", function () {
       ul.replaceChildren(); sel = -1; if (!data) return;
       var q = norm(inp.value.trim()); if (q.length < 2) return; var ws = q.split(/\s+/);
-      var hits = data.filter(function (a) { var h = norm([a.name.vi, a.name.en, (a.alt_names || []).join(" "), (a.categories || []).join(" ")].join(" ")); return ws.every(function (w) { return h.indexOf(w) >= 0; }); })
+      var hits = data.filter(function (a) { var h = norm([a.name.vi, a.name.en, (a.alt_names || []).join(" "), (a.categories || []).join(" ")].join(" ")); return ws.every(function (w) { return VIE.hit(h, w); }); })
         .sort(function (a, b) { return (norm(a.name.vi).indexOf(q) === 0 ? 0 : 1) - (norm(b.name.vi).indexOf(q) === 0 ? 0 : 1) || (b.logo ? 1 : 0) - (a.logo ? 1 : 0); }).slice(0, 8);
       hits.forEach(function (x) {
         var li = document.createElement("li"); li.setAttribute("role", "option"); var a = document.createElement("a"); a.href = VIE.root + (x.url || ("to-chuc/" + x.id + "/"));
