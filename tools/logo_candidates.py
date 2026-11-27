@@ -4,11 +4,12 @@ Cách dùng:
     python tools/logo_candidates.py [thư-mục-ra]        (mặc định .cache/logos)
 
 Với mỗi hồ sơ: tải trang chủ, lấy ứng viên (logo trong JSON-LD, <img> có chữ "logo",
-apple-touch-icon, icon, og:image), tải ảnh, chấm điểm (thấp = tốt), rồi ghi
+apple-touch-icon, icon, og:image; nếu không có gì thì biểu tượng trang qua dịch vụ
+favicon của Google, trừ khi tên miền đã ngừng), tải ảnh, chấm điểm (thấp = tốt), rồi ghi
 candidates.json và review.html. Mở review.html, chọn logo đúng, bấm "Tải CSV",
 rồi chạy tools/apply_logos.py với tệp CSV đó.
 """
-import concurrent.futures, glob, hashlib, io, json, os, ssl, sys, urllib.error, urllib.parse, urllib.request
+import concurrent.futures, glob, hashlib, io, json, os, socket, ssl, sys, urllib.error, urllib.parse, urllib.request
 from collections import Counter
 from html.parser import HTMLParser
 import yaml
@@ -19,7 +20,7 @@ OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, ".cache", "logos"
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; VietnamInnovationMap-LogoBot/0.1; +https://innovation.invietnam.vn)"}
 # Nguồn đáng tin hơn có hạng thấp hơn
 # "img2": <img> có chữ "logo" nhưng không phải cái đầu tiên, thường là logo khách hàng, đối tác
-RANK = {"jsonld": 0, "img": 1, "touch": 2, "icon": 3, "og": 4, "img2": 4}
+RANK = {"jsonld": 0, "img": 1, "touch": 2, "icon": 3, "gfav": 3, "og": 4, "img2": 4}
 # <img> có chữ "logo" nhưng là logo của đơn vị khác (đối tác, khách hàng, danh mục đầu tư)
 OTHERS = ("partner", "client", "customer", "sponsor", "investor", "portfolio", "award", "doi-tac", "khach-hang")
 
@@ -111,25 +112,32 @@ def analyze(data):
 
 def candidates(a):
     rec = {"id": a["id"], "name": a["name"]["vi"], "website": a["website"], "cands": []}
+    found = []
     try:
         final, page = fetch(a["website"])
+        rec["final_url"] = final
+        f = Finder()
+        f.feed(page.decode("utf-8", "replace"))
+        for block in f.ld:
+            try:
+                found += [("jsonld", u) for u in ld_logos(json.loads(block))]
+            except ValueError:
+                pass
+        imgs = [u for s, u in f.found if s == "img"][:3]
+        found += [("img" if i == 0 else "img2", u) for i, u in enumerate(imgs)] + [x for x in f.found if x[0] != "img"] + [("icon", "/favicon.ico")]
     except Exception as e:
         rec["error"] = f"{type(e).__name__}: {e}"[:200]
-        return rec
-    rec["final_url"] = final
-    f = Finder()
-    f.feed(page.decode("utf-8", "replace"))
-    found = []
-    for block in f.ld:
-        try:
-            found += [("jsonld", u) for u in ld_logos(json.loads(block))]
-        except ValueError:
-            pass
-    imgs = [u for s, u in f.found if s == "img"][:3]
-    found += [("img" if i == 0 else "img2", u) for i, u in enumerate(imgs)] +[x for x in f.found if x[0] != "img"] + [("icon", "/favicon.ico")]
+        # Tên miền không còn: không lấy biểu tượng cũ của một website đã ngừng
+        if isinstance(getattr(e, "reason", None), socket.gaierror):
+            return rec
+        final = a["website"]
+    # Dự phòng khi trang chặn máy chủ hoặc chỉ hiện logo bằng JavaScript: biểu tượng trang qua dịch vụ favicon của Google
+    found.append(("gfav", "https://www.google.com/s2/favicons?sz=256&domain=" + urllib.parse.urlparse(a["website"]).hostname))
     seen = set()
     os.makedirs(os.path.join(OUT, a["id"]), exist_ok=True)
     for src, u in found:
+        if src == "gfav" and rec["cands"]:
+            break
         if not u:
             continue
         url = urllib.parse.urljoin(final, u.strip())
@@ -140,6 +148,8 @@ def candidates(a):
             data = fetch(url)[1]
             ext, w, h, light = analyze(data)
         except Exception:
+            continue
+        if src == "gfav" and max(w, h) < 64:
             continue
         flags = []
         if max(w, h) < 64 and ext != "svg":
