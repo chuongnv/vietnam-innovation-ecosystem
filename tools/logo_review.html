@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Duyệt logo</title>
+<style>
+  body { font: 14px/1.4 system-ui, sans-serif; margin: 0; background: #f4f5f5; color: #102a2c; }
+  header { position: sticky; top: 0; background: #fff; border-bottom: 1px solid #ddd; padding: 10px 16px; display: flex; gap: 16px; align-items: center; z-index: 1; }
+  header h1 { font-size: 16px; margin: 0; flex: 1; }
+  button { font: inherit; padding: 6px 14px; border: 0; border-radius: 6px; background: #0b6e69; color: #fff; cursor: pointer; }
+  main { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 12px; padding: 16px; }
+  .card { background: #fff; border: 2px solid #ddd; border-radius: 8px; padding: 10px; }
+  .card.done { border-color: #0b6e69; }
+  .card.none { border-color: #b9b9b9; opacity: .7; }
+  .card h2 { font-size: 14px; margin: 0 0 2px; }
+  .card a { color: #0b6e69; font-size: 12px; word-break: break-all; }
+  .err { color: #a33; font-size: 12px; }
+  .opts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+  label { cursor: pointer; border: 2px solid transparent; border-radius: 6px; padding: 4px; font-size: 11px; color: #666; text-align: center; }
+  label:has(input:checked) { border-color: #0b6e69; background: #e6f2f1; }
+  label input { display: none; }
+  .tiles { display: flex; }
+  .tiles span { width: 64px; height: 64px; display: grid; place-items: center; }
+  .tiles span:first-child { background: #fff; outline: 1px solid #eee; }
+  .tiles span:last-child { background: #222; }
+  .tiles img { max-width: 56px; max-height: 56px; }
+  .nolabel { align-self: center; padding: 8px; }
+</style>
+</head>
+<body>
+<header><h1>Duyệt logo · <span id="count"></span></h1><button id="export">Tải CSV</button></header>
+<main id="list"></main>
+<script>
+const RECS = /*DATA*/[];
+const KEY = "logo-review";
+let picks = {};
+try { picks = JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) {}
+// Chọn sẵn ứng viên tốt nhất nếu không bị trừ điểm nặng; người duyệt sửa nếu sai
+const auto = {};
+RECS.forEach(r => { auto[r.id] = r.cands.length && r.cands[0].score < 30 ? r.cands[0].file : ""; });
+
+function render() {
+  const list = document.getElementById("list");
+  list.innerHTML = "";
+  RECS.forEach(r => {
+    const pick = r.id in picks ? picks[r.id] : auto[r.id];
+    const card = document.createElement("div");
+    card.className = "card" + (r.id in picks ? (picks[r.id] ? " done" : " none") : "");
+    card.innerHTML = `<h2></h2><a target="_blank" rel="noopener"></a>${r.error ? '<div class="err"></div>' : ""}<div class="opts"></div>`;
+    card.querySelector("h2").textContent = r.name;
+    const a = card.querySelector("a"); a.href = r.final_url || r.website; a.textContent = r.final_url || r.website;
+    if (r.error) card.querySelector(".err").textContent = r.error;
+    const opts = card.querySelector(".opts");
+    r.cands.forEach(c => {
+      const l = document.createElement("label");
+      l.innerHTML = `<input type="radio"><div class="tiles"><span><img></span><span><img></span></div><div></div>`;
+      l.querySelectorAll("img").forEach(i => i.src = c.file);
+      l.lastChild.textContent = `${c.src} ${c.w}×${c.h}${c.flags.length ? " · " + c.flags.join(",") : ""}`;
+      const i = l.querySelector("input"); i.name = r.id; i.checked = pick === c.file;
+      i.onchange = () => choose(r.id, c.file);
+      opts.append(l);
+    });
+    const n = document.createElement("label"); n.className = "nolabel";
+    n.innerHTML = `<input type="radio"> Không có logo đúng`;
+    const ni = n.querySelector("input"); ni.name = r.id; ni.checked = pick === "";
+    ni.onchange = () => choose(r.id, "");
+    opts.append(n);
+    list.append(card);
+  });
+  document.getElementById("count").textContent = `đã duyệt ${Object.keys(picks).length}/${RECS.length}`;
+}
+
+function choose(id, file) {
+  picks[id] = file;
+  try { localStorage.setItem(KEY, JSON.stringify(picks)); } catch (e) {}
+  render();
+}
+
+// Thẻ chưa bấm vào được tính theo lựa chọn chọn sẵn
+document.getElementById("export").onclick = () => {
+  const q = s => `"${String(s).replace(/"/g, '""')}"`;
+  const rows = [["id", "file", "url", "auto_file"]];
+  RECS.forEach(r => {
+    const file = r.id in picks ? picks[r.id] : auto[r.id];
+    const c = r.cands.find(c => c.file === file);
+    rows.push([r.id, file, c ? c.url : "", auto[r.id]]);
+  });
+  const blob = new Blob([rows.map(r => r.map(q).join(",")).join("\n") + "\n"], { type: "text/csv" });
+  const link = document.createElement("a");
+  link.href = URL.createObjectURL(blob); link.download = "logo-decisions.csv"; link.click();
+};
+render();
+</script>
+</body>
+</html>
