@@ -1,6 +1,8 @@
 id: startup-indanang
 name:
   vi: IndaNang
+alt_names:
+- InVietnam
 type: startup
 status: inactive
 region: da-nang

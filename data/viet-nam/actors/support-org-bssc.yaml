@@ -1,6 +1,7 @@
 id: support-org-bssc
 name:
   vi: BSSC
+status: inactive
 type: support_org
 website: https://bssc.vn/
 region: viet-nam
@@ -10,4 +11,8 @@ verification:
 sources:
 - indanang.vn
 - StartupBlink – Global Startup Ecosystem Index 2026 (báo cáo PDF)
+history:
+- date: '2026'
+  text: Hợp nhất vào Trung tâm Khởi nghiệp sáng tạo TP.HCM (SIHUB) theo đề án tổ chức lại SIHUB được UBND TP.HCM phê duyệt tại Quyết định 2318/QĐ-UBND; bssc.vn chuyển hướng sang sihub.gov.vn.
+  source: https://luatvietnam.vn/khoa-hoc/quyet-dinh-2318-qd-ubnd-tp-hcm-2026-duyet-de-an-to-chuc-lai-trung-tam-khoi-nghiep-sang-tao-432972-d2.html
 source_url: https://indanang.vn/ecosystem-activities/startup-wheel-2026

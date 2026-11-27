@@ -1,6 +1,8 @@
 id: startup-cassava-noodle
 name:
   vi: Cassava Noodle
+alt_names:
+- CAROMI
 type: startup
 status: active
 region: da-nang

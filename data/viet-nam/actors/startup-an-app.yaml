@@ -5,6 +5,7 @@ type: startup
 sectors:
 - ai
 website: http://antech.app
+website_status: Chặn truy cập tự động, cần kiểm tra tay
 region: viet-nam
 verification:
   level: unverified

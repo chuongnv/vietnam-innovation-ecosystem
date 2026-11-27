@@ -1,6 +1,8 @@
 id: university-truong-cao-dang-kinh-te-ke-hoach-da-nang
 name:
-  vi: Trường Cao đẳng Kinh tế - Kế hoạch Đà Nẵng
+  vi: Học viện Chính sách và Phát triển – Phân hiệu Đà Nẵng
+alt_names:
+- Trường Cao đẳng Kinh tế - Kế hoạch Đà Nẵng
 type: university
 categories:
 - Viện, trường
@@ -17,3 +19,7 @@ sources:
 - startupdanang.vn
 - Sở KH&CN Đà Nẵng – Hệ sinh thái khởi nghiệp ĐMST Đà Nẵng (2025)
 legacy_id: u21
+history:
+- date: '2026'
+  text: Trường Cao đẳng Kinh tế - Kế hoạch Đà Nẵng trở thành Phân hiệu Đà Nẵng của Học viện Chính sách và Phát triển; website cep.edu.vn nay mang tên mới.
+  source: https://cep.edu.vn/

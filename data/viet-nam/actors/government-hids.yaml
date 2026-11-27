@@ -1,6 +1,9 @@
 id: government-hids
 name:
   vi: HIDS
+alt_names:
+- Ho Chi Minh City Institute for Development Studies
+status: inactive
 type: government
 website: https://hids.hochiminhcity.gov.vn/
 region: viet-nam
@@ -8,4 +11,8 @@ verification:
   level: unverified
 sources:
 - indanang.vn
+history:
+- date: '2026-10-03'
+  text: Sáp nhập vào Học viện Cán bộ TP.HCM theo quyết định của Ban Thường vụ Thành ủy TP.HCM (Quyết định 1402-QĐ/TU), cùng Trường Đoàn Lý Tự Trọng.
+  source: https://www.sggp.org.vn/sap-nhap-2-don-vi-vao-hoc-vien-can-bo-tphcm-post860992.html
 source_url: https://indanang.vn/ecosystem-activities/conviction-2026
