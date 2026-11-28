@@ -9,8 +9,10 @@ sectors:
 - ai
 - agrifood
 - climate
+website: https://sphereax.com/
 description:
-  vi: Giám sát, cảnh báo sớm cháy rừng thông minh.
+  vi: 'Công ty AI thị giác của Hàn Quốc, phát triển FireWatcher – hệ thống phân tích video CCTV để phát hiện sớm khói cháy rừng; đã lập pháp nhân tại Đà Nẵng và hợp tác triển khai tại miền Trung.'
+  en: 'A South Korean vision-AI company that develops FireWatcher, a CCTV video-analysis system for early detection of wildfire smoke; it has set up a local entity in Da Nang and is working on deployments in central Vietnam.'
 region: da-nang
 verification:
   level: unverified

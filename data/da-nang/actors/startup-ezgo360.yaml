@@ -3,6 +3,9 @@ name:
   vi: Ezgo360
 type: startup
 status: active
+description:
+  vi: 'Ứng dụng lập kế hoạch du lịch, dùng thuật toán định tuyến tự động để sắp xếp lịch trình cho các chuyến đi dài; do LeGroup phát triển, nhà sáng lập Lê Hà Xuân.'
+  en: 'A travel-planning app that uses automatic routing algorithms to arrange itineraries for long trips; developed by LeGroup and founded by Le Ha Xuan.'
 region: da-nang
 verification:
   level: partner_verified

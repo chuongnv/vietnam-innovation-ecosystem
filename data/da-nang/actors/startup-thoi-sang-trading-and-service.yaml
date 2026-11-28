@@ -6,7 +6,8 @@ sectors:
 - agrifood
 address: Lot 45, Vung Trung 6, Đà Nẵng
 description:
-  vi: Sản xuất tổ yến.
+  vi: 'Công ty TNHH Thương mại và Dịch vụ Thời Sang tại Đà Nẵng, sản xuất và kinh doanh sản phẩm tổ yến; có tên trong danh sách hệ sinh thái khởi nghiệp ĐMST của Sở KH&CN Đà Nẵng.'
+  en: 'Thoi Sang Trading and Service Co., Ltd. in Da Nang produces and sells bird''s nest products; listed in the Da Nang Department of Science and Technology''s innovation ecosystem directory.'
 region: da-nang
 verification:
   level: source_checked

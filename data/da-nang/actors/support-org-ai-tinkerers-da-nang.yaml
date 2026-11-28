@@ -4,8 +4,10 @@ name:
 type: support_org
 categories:
 - Cộng đồng
+website: https://da-nang.aitinkerers.org/
 description:
-  vi: Cộng đồng builder AI, ra mắt 15/8/2026.
+  vi: 'Chi nhánh Đà Nẵng của mạng lưới AI Tinkerers toàn cầu, tổ chức các buổi gặp mặt theo hình thức trình diễn sản phẩm (demo) dành cho kỹ sư, nhà sáng lập và nhà nghiên cứu đang trực tiếp xây dựng hệ thống AI.'
+  en: 'The Da Nang chapter of the global AI Tinkerers network, running demo-focused meetups for engineers, founders and researchers who are building AI systems hands-on.'
 region: da-nang
 verification:
   level: unverified

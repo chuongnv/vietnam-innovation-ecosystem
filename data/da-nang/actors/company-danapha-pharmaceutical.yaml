@@ -4,9 +4,11 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+website: https://danapha.com/
 address: 253 Dung Si Thanh Khe, Đà Nẵng
 description:
-  vi: Doanh nghiệp khoa học và công nghệ tại Đà Nẵng.
+  vi: 'Công ty cổ phần dược phẩm có trụ sở tại Đà Nẵng, nghiên cứu, sản xuất và phân phối thuốc tân dược và thuốc từ dược liệu; cổ phiếu giao dịch với mã DAN.'
+  en: 'A Da Nang-based pharmaceutical joint stock company that researches, manufactures and distributes modern and herbal medicines; its shares trade under the ticker DAN.'
 region: da-nang
 verification:
   level: source_checked

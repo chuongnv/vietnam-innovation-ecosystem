@@ -10,8 +10,10 @@ categories:
 sectors:
 - fintech
 - tourism
+website: https://payd.vn
 description:
-  vi: Giải pháp PayD trong sandbox, 18 tháng.
+  vi: 'Công ty cổ phần tại Đà Nẵng phát triển ứng dụng PayD, giúp khách du lịch đổi tài sản số sang VND và thanh toán bằng mã QR tại nhà hàng, khách sạn, cửa hàng; đang thử nghiệm có kiểm soát theo cơ chế sandbox của thành phố.'
+  en: 'A Da Nang joint-stock company developing the PayD app, which lets tourists convert digital assets into VND and pay by QR code at restaurants, hotels and shops; operating under the city''s controlled sandbox.'
 region: da-nang
 verification:
   level: unverified

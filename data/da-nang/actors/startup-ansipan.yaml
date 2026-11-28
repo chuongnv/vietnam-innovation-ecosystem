@@ -3,6 +3,9 @@ name:
   vi: Ansipan
 type: startup
 status: inactive
+description:
+  vi: 'Nền tảng kết nối chủ nhà với người cần thuê chỗ ở dài ngày, chủ yếu là khách nước ngoài và khách trong nước đi công tác hoặc du lịch dài ngày.'
+  en: 'Platform connecting landlords with people seeking long-stay accommodation, mainly foreigners and domestic business or long-term travellers.'
 region: da-nang
 verification:
   level: partner_verified

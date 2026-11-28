@@ -3,6 +3,9 @@ name:
   vi: Glampy
 type: startup
 status: inactive
+description:
+  vi: 'Dự án khởi nghiệp ươm tạo tại DNES (khóa II, 2016) phát triển ứng dụng đặt lịch dịch vụ làm đẹp tận nơi, hướng tới phụ nữ văn phòng bận rộn.'
+  en: 'Startup incubated at DNES (batch II, 2016) developing an app to book on-site beauty services, aimed at busy office-working women.'
 region: da-nang
 verification:
   level: partner_verified

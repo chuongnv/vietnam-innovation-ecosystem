@@ -4,6 +4,9 @@ name:
 type: startup
 founded: 2021
 status: active
+description:
+  vi: 'Doanh nghiệp thương mại điện tử xuyên biên giới ở Đà Nẵng (104 Núi Thành, Hải Châu), thành lập 2016, cung cấp thiết kế, sản phẩm in theo yêu cầu cá nhân hóa và chăm sóc khách hàng cho các thương hiệu bán hàng trực tuyến toàn cầu.'
+  en: 'Cross-border e-commerce company in Da Nang (104 Nui Thanh, Hai Chau), founded in 2016, providing design, personalised print-on-demand products and customer support for global online brands.'
 region: da-nang
 verification:
   level: partner_verified

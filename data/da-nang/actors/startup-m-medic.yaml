@@ -3,6 +3,9 @@ name:
   vi: M-Medic
 type: startup
 status: active
+description:
+  vi: 'Nền tảng chăm sóc sức khỏe ở Đà Nẵng (tiền thân HappyMom, ươm tạo tại DNES, thành lập công ty cổ phần 2019) kết nối người dùng với phòng khám tư, phòng xét nghiệm, nhà thuốc và cung cấp dịch vụ khám cho trẻ tại nhà.'
+  en: 'Da Nang healthcare platform (formerly HappyMom, incubated at DNES, incorporated as a joint stock company in 2019) connecting users with private clinics, labs and pharmacies and offering at-home care for children.'
 region: da-nang
 verification:
   level: partner_verified

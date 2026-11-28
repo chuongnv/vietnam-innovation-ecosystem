@@ -10,8 +10,10 @@ categories:
 - Thương mại, fintech
 sectors:
 - fintech
+website: https://umipay.vn
 description:
-  vi: Giải pháp Umi Pay trong sandbox, 36 tháng.
+  vi: 'Công ty cổ phần dịch vụ tài sản số phát triển Umi Pay, nền tảng chuyển đổi hai chiều giữa USDT/USDC và VND, được cấp phép thử nghiệm có kiểm soát tại Đà Nẵng.'
+  en: 'A digital asset services company that develops Umi Pay, a two-way USDT/USDC and VND conversion platform licensed for controlled testing in Da Nang.'
 region: da-nang
 verification:
   level: unverified

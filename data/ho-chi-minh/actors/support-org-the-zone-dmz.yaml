@@ -4,6 +4,11 @@ name:
 type: support_org
 categories:
 - Hands-on venture support
+website: https://vietnam.zonestartups.com/
+linkedin: https://www.linkedin.com/company/zonestartups/
+description:
+  vi: 'Chương trình ươm tạo và hỗ trợ khởi nghiệp công nghệ tại TP.HCM thuộc mạng lưới DMZ của Đại học Toronto Metropolitan (Canada); trước đây mang tên Zone Startups Vietnam.'
+  en: 'A tech startup incubation and support programme in Ho Chi Minh City, part of the DMZ network of Toronto Metropolitan University (Canada); formerly known as Zone Startups Vietnam.'
 region: ho-chi-minh
 verification:
   level: unverified

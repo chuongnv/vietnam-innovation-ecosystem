@@ -3,6 +3,9 @@ name:
   vi: Carus
 type: startup
 status: active
+description:
+  vi: 'Nền tảng kết nối chủ xe máy, ô tô với các cơ sở rửa, sửa chữa, bảo dưỡng xe tận nơi, giúp người dùng tiết kiệm thời gian.'
+  en: 'Platform connecting motorbike and car owners with providers of on-site washing, repair and maintenance services.'
 region: da-nang
 verification:
   level: partner_verified

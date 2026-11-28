@@ -4,8 +4,10 @@ name:
 type: university
 categories:
 - Viện nghiên cứu
+website: http://vienduoclieu.org.vn
 description:
-  vi: Đồng tổ chức hội thảo quốc tế Sâm Ngọc Linh (8/2026).
+  vi: 'Viện nghiên cứu công lập thuộc Bộ Y tế (NIMM), nghiên cứu, bảo tồn nguồn gen cây thuốc và phát triển sản phẩm từ dược liệu, đồng thời đào tạo và chuyển giao công nghệ trong lĩnh vực dược liệu.'
+  en: 'A public research institute under the Ministry of Health (NIMM) that studies and conserves medicinal plant resources, develops herbal-based products and provides training and technology transfer in the field.'
 region: da-nang
 verification:
   level: unverified

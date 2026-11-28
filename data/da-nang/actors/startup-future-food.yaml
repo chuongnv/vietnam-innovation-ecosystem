@@ -5,6 +5,9 @@ type: startup
 sectors:
 - agrifood
 status: inactive
+description:
+  vi: 'Dự án phát triển thực phẩm thay thế thịt làm từ côn trùng và thực vật, sản phẩm đầu tiên là thực phẩm chế biến từ dế.'
+  en: 'Project developing meat-alternative foods from insects and plants, starting with processed cricket products.'
 region: da-nang
 verification:
   level: partner_verified

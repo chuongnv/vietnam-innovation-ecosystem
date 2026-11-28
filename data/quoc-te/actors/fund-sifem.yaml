@@ -2,6 +2,10 @@ id: fund-sifem
 name:
   vi: Sifem
 type: fund
+website: https://sifem.ch/
+description:
+  vi: 'Quỹ tài chính phát triển của Chính phủ Thụy Sĩ, đầu tư dài hạn vào doanh nghiệp nhỏ và vừa, doanh nghiệp tăng trưởng nhanh tại các thị trường mới nổi, chủ yếu qua các quỹ và tổ chức tài chính.'
+  en: 'The Swiss government''s development finance institution, providing long-term financing to SMEs and fast-growing companies in emerging markets, mainly through funds and financial institutions.'
 region: quoc-te
 verification:
   level: unverified

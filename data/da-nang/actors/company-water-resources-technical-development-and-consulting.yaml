@@ -4,9 +4,11 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+website: https://watec.vn
 address: 299 Huynh Ngoc Hue, Đà Nẵng
 description:
-  vi: Doanh nghiệp khoa học và công nghệ tại Đà Nẵng.
+  vi: 'Doanh nghiệp khoa học và công nghệ ở Đà Nẵng thành lập năm 2003, ban đầu tư vấn thiết kế, giám sát công trình thủy lợi, nay phát triển hệ thống quan trắc, cảnh báo thiên tai (như mưa, ngập lụt) và dịch vụ kiểm định, hiệu chuẩn phương tiện đo.'
+  en: 'A Da Nang science and technology enterprise founded in 2003, originally in water-works design and supervision consulting, now also building monitoring and early-warning systems for natural hazards such as rain and flooding, plus measuring-instrument calibration services.'
 region: da-nang
 verification:
   level: source_checked

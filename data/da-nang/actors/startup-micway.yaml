@@ -3,6 +3,9 @@ name:
   vi: Micway
 type: startup
 status: inactive
+description:
+  vi: 'Dự án khởi nghiệp ươm tạo tại DNES (Finc. khóa 9, 2019) nghiên cứu và sản xuất chế phẩm sinh học Bio-MS dùng để xử lý mùi hôi chuồng trại chăn nuôi.'
+  en: 'Startup incubated at DNES (Finc. batch 9, 2019) that researches and produces Bio-MS, a biological product for treating odours in livestock barns.'
 region: da-nang
 verification:
   level: partner_verified

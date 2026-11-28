@@ -4,8 +4,10 @@ name:
 type: international
 categories:
 - Đại học Hàn Quốc
+website: https://www.jnu.ac.kr/
 description:
-  vi: Trường đại học Hàn Quốc, đối tác của SIHUB.
+  vi: 'Đại học quốc gia của Hàn Quốc có trụ sở chính tại Gwangju, đào tạo và nghiên cứu đa ngành; là một trong các trường đối tác hợp tác của SIHUB.'
+  en: 'A South Korean national university headquartered in Gwangju, offering multidisciplinary teaching and research; one of SIHUB''s partner universities.'
 region: quoc-te
 verification:
   level: source_checked

@@ -4,8 +4,11 @@ name:
 type: international
 categories:
 - Hoa Kỳ
+website: https://www.nvidia.com/
+linkedin: https://www.linkedin.com/company/nvidia/
 description:
-  vi: Đoàn thành phố làm việc về AI, hạ tầng tính toán (9/2026).
+  vi: 'Tập đoàn công nghệ Mỹ thiết kế GPU và nền tảng điện toán tăng tốc cho AI; đang hợp tác với Đà Nẵng về đào tạo nhân lực AI và hạ tầng tính toán.'
+  en: 'US technology company designing GPUs and accelerated computing platforms for AI; cooperating with Da Nang on AI workforce training and compute infrastructure.'
 region: da-nang
 verification:
   level: unverified

@@ -4,8 +4,10 @@ name:
 type: government
 categories:
 - Đơn vị thuộc Sở KH&CN
+website: https://quatestdanang.com.vn
 description:
-  vi: Chức năng theo QĐ 69/2025/QĐ-UBND.
+  vi: 'Đơn vị sự nghiệp thuộc Sở KH&CN Đà Nẵng, thực hiện ứng dụng và chuyển giao tiến bộ khoa học công nghệ cùng các dịch vụ kỹ thuật về tiêu chuẩn, đo lường, thử nghiệm, kiểm định và chứng nhận chất lượng cho doanh nghiệp.'
+  en: 'A public unit under the Da Nang Department of Science and Technology providing technology application and transfer, as well as standards, metrology, testing, calibration and quality certification services for businesses.'
 region: da-nang
 verification:
   level: unverified

@@ -2,6 +2,9 @@ id: fund-hcmc-venture-capital-fund
 name:
   vi: HCMC Venture Capital Fund
 type: fund
+description:
+  vi: 'Quỹ đầu tư mạo hiểm do TP.HCM thành lập năm 2026, vận hành bởi Công ty CP Quỹ Đầu tư mạo hiểm TP.HCM (HCM VIF) với vốn điều lệ ban đầu 500 tỷ đồng (40% từ ngân sách thành phố), đầu tư vào startup và doanh nghiệp khoa học công nghệ.'
+  en: 'A venture capital fund set up by Ho Chi Minh City in 2026 and run by HCM VIF JSC, with initial charter capital of VND 500 billion (40% from the city budget), investing in startups and science and technology companies.'
 region: ho-chi-minh
 verification:
   level: unverified

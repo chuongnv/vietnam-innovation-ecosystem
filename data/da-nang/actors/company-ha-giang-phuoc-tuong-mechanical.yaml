@@ -4,9 +4,11 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+website: https://hgpt.vn/
 address: Road 8, Hoa Cam Industrial Park, Đà Nẵng
 description:
-  vi: Doanh nghiệp khoa học và công nghệ tại Đà Nẵng.
+  vi: 'Doanh nghiệp cơ khí thành lập năm 1988 tại KCN Hòa Cầm, Đà Nẵng, thiết kế và thi công kết cấu thép, nhà thép tiền chế, nhà xưởng và thiết bị cơ khí cho thủy điện, thủy lợi.'
+  en: 'An engineering company founded in 1988 in Hoa Cam Industrial Park, Da Nang, that designs and builds steel structures, pre-engineered buildings, factories and mechanical equipment for hydropower and irrigation works.'
 region: da-nang
 verification:
   level: source_checked

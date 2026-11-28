@@ -2,6 +2,9 @@ id: support-org-da-nang-sandbox
 name:
   vi: Da Nang Sandbox
 type: support_org
+description:
+  vi: 'Cơ chế thử nghiệm có kiểm soát (sandbox) của TP. Đà Nẵng cho các giải pháp công nghệ mới như fintech, blockchain và chuyển đổi tài sản số, do Sở KH&CN Đà Nẵng giám sát.'
+  en: 'Da Nang city''s controlled testing mechanism (sandbox) for new technology solutions such as fintech, blockchain and digital-asset conversion, supervised by the Da Nang Department of Science and Technology.'
 region: viet-nam
 verification:
   level: unverified

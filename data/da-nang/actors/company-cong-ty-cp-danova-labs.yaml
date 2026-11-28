@@ -11,7 +11,8 @@ categories:
 sectors:
 - fintech
 description:
-  vi: Giải pháp TORA trong sandbox, 36 tháng.
+  vi: 'Công ty phát triển TORA, giải pháp trung gian không lưu ký chuyển đổi tài sản số (USDT) sang VND và ngược lại, được thử nghiệm có kiểm soát tại Đà Nẵng.'
+  en: 'Company developing TORA, a non-custodial intermediary that converts digital assets (USDT) to VND and back, piloted under Da Nang''s controlled sandbox.'
 region: da-nang
 verification:
   level: unverified

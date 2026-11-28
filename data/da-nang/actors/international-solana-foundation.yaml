@@ -4,8 +4,10 @@ name:
 type: international
 categories:
 - Blockchain toàn cầu
+website: https://solana.org/
 description:
-  vi: Ký hợp tác cùng DISSC và FUTA Land (10/2026).
+  vi: 'Tổ chức phi lợi nhuận đặt tại Zug (Thụy Sĩ), hỗ trợ phát triển, phi tập trung hóa và bảo mật mạng blockchain Solana thông qua tài trợ, chương trình cộng đồng và hợp tác.'
+  en: 'A non-profit foundation based in Zug, Switzerland, that supports the growth, decentralisation and security of the Solana blockchain network through grants, community programmes and partnerships.'
 region: da-nang
 verification:
   level: unverified

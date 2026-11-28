@@ -3,6 +3,9 @@ name:
   vi: Beans Community Hub
 type: startup
 status: active
+description:
+  vi: 'Dự án không gian làm việc và giao lưu cộng đồng tại Đà Nẵng, do chủ thương hiệu cà phê The Local Beans phát triển, hướng đến khách từ nhiều nơi cần chỗ làm việc linh hoạt.'
+  en: 'A co-working and community meeting space project in Da Nang, developed by the owner of The Local Beans coffee brand for visitors needing flexible workspace.'
 region: da-nang
 verification:
   level: partner_verified

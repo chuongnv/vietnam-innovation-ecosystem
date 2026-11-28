@@ -4,8 +4,10 @@ name:
 type: international
 categories:
 - Đại học Hàn Quốc
+website: https://www.scnu.ac.kr/
 description:
-  vi: Trường đại học Hàn Quốc, đối tác của SIHUB.
+  vi: 'Trường đại học quốc gia ở thành phố Suncheon, tỉnh Jeollanam-do (Hàn Quốc), đào tạo và nghiên cứu đa ngành; là đối tác hợp tác của SIHUB TP.HCM.'
+  en: 'National university in Suncheon, South Jeolla Province (South Korea), providing multidisciplinary education and research; a cooperation partner of SIHUB in Ho Chi Minh City.'
 region: quoc-te
 verification:
   level: source_checked

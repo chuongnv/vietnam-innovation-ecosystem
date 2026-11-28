@@ -5,6 +5,9 @@ type: startup
 sectors:
 - tourism
 status: active
+description:
+  vi: 'Dự án du lịch ở Đà Nẵng do Nguyễn Minh Lợi khởi xướng, tổ chức tour đi bộ có hướng dẫn viên tình nguyện giới thiệu ẩm thực, văn hóa, mua sắm địa phương; du khách tự trả phí tùy ý sau tour.'
+  en: 'Da Nang tourism project started by Nguyen Minh Loi, running walking tours led by volunteer guides who introduce local food, culture and shopping; visitors pay what they wish after the tour.'
 region: da-nang
 verification:
   level: partner_verified

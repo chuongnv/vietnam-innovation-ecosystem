@@ -3,6 +3,9 @@ name:
   vi: Noi Tob
 type: startup
 status: active
+description:
+  vi: 'Sản phẩm nôi đa năng cho trẻ dưới 1 tuổi, tích hợp chức năng nôi, xe lắc và xe đẩy trong một thiết bị, hướng tới phụ nữ mang thai và gia đình có con nhỏ.'
+  en: 'A multi-purpose cradle for babies under one year that combines cradle, rocker and stroller functions, aimed at expectant mothers and young families.'
 region: da-nang
 verification:
   level: partner_verified

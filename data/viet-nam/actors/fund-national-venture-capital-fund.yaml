@@ -2,6 +2,9 @@ id: fund-national-venture-capital-fund
 name:
   vi: National Venture Capital Fund
 type: fund
+description:
+  vi: 'Quỹ đầu tư mạo hiểm cấp quốc gia thành lập theo Nghị định 264/2025/NĐ-CP, do Bộ KH&CN đại diện chủ sở hữu vốn nhà nước, dùng vốn mồi ngân sách cùng nguồn tư nhân đầu tư vào doanh nghiệp khởi nghiệp sáng tạo.'
+  en: 'National-level venture capital fund established under Decree 264/2025/ND-CP, with the Ministry of Science and Technology representing state ownership; it uses state seed capital alongside private money to invest in innovative startups.'
 region: viet-nam
 verification:
   level: unverified

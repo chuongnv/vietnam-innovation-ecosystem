@@ -2,6 +2,10 @@ id: international-aus4innovation
 name:
   vi: Aus4Innovation
 type: international
+website: https://research.csiro.au/aus4innovation/
+description:
+  vi: 'Chương trình hợp tác Úc – Việt Nam (2018–2028) do Bộ Ngoại giao và Thương mại Úc tài trợ, CSIRO phối hợp với Bộ KH&CN Việt Nam triển khai, nhằm tăng cường hệ thống đổi mới sáng tạo Việt Nam phục vụ phát triển bao trùm và bền vững.'
+  en: 'An Australia–Vietnam programme (2018–2028) funded by Australia''s DFAT and delivered by CSIRO with Vietnam''s Ministry of Science and Technology to strengthen Vietnam''s innovation system for inclusive and sustainable development.'
 region: quoc-te
 verification:
   level: unverified

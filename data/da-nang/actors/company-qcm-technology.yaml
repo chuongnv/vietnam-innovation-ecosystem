@@ -4,9 +4,11 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+website: https://qcm.com.vn/
 address: Lot A1, Road 2, High-Tech Park, Đà Nẵng
 description:
-  vi: Doanh nghiệp khoa học và công nghệ tại Đà Nẵng.
+  vi: 'Doanh nghiệp tại Khu Công nghệ cao Đà Nẵng thiết kế và chế tạo máy móc, dây chuyền tự động cho chế biến thủy sản, nông sản, thực phẩm và thịt, như máy phân cỡ tôm, máy đánh vảy cá, dây chuyền đóng gói.'
+  en: 'Company in the Da Nang Hi-Tech Park that designs and builds machinery and automated lines for seafood, agricultural, food and meat processing, such as shrimp graders, fish scalers and packing lines.'
 region: da-nang
 verification:
   level: source_checked

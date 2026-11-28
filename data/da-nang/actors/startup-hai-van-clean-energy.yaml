@@ -8,6 +8,9 @@ sectors:
 - climate
 founded: 2023
 status: active
+description:
+  vi: 'Công ty cổ phần ở Đà Nẵng, thành lập cuối năm 2023, thu gom cành cây cắt tỉa và rác hữu cơ đô thị để sản xuất viên nén sinh khối thay than và giá thể trồng cây; dự án ''Tái tạo năng lượng xanh'' tham gia SURF 2024.'
+  en: 'A Da Nang joint-stock company founded in late 2023 that collects pruned branches and urban organic waste to make biomass pellets as a coal substitute and growing substrate; its ''Green Energy Regeneration'' project took part in SURF 2024.'
 region: da-nang
 verification:
   level: partner_verified

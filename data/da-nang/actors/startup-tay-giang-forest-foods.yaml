@@ -9,6 +9,9 @@ sectors:
 - tourism
 founded: 2022
 status: active
+description:
+  vi: 'Công ty CP Thực phẩm Vườn rừng Tây Giang (Forest Foods), do Phạm Thanh Hoàng sáng lập, sản xuất chất tạo ngọt tự nhiên hữu cơ (mật đường Sao La) từ cây rừng của đồng bào Cơ Tu, tạo sinh kế cho người dân miền núi.'
+  en: 'Tay Giang Forest Garden Food JSC (Forest Foods), founded by Pham Thanh Hoang, makes an organic natural sweetener (Sao La syrup) from a forest plant used by the Co Tu people, creating livelihoods in the highlands.'
 region: da-nang
 verification:
   level: partner_verified

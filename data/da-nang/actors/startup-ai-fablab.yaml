@@ -5,6 +5,9 @@ type: startup
 sectors:
 - ai
 status: active
+description:
+  vi: 'Xưởng chế tạo (makerspace) tại Đà Nẵng, cho cộng đồng sử dụng thiết bị như máy in 3D và tổ chức workshop STEM, robotics cho học sinh, trường học và doanh nghiệp.'
+  en: 'A makerspace in Da Nang that opens equipment such as 3D printers to the public and runs STEM and robotics workshops for students, schools and companies.'
 region: da-nang
 verification:
   level: partner_verified

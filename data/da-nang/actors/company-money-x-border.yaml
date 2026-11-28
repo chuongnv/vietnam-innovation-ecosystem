@@ -10,8 +10,11 @@ categories:
 - Thương mại, fintech
 sectors:
 - fintech
+website: https://xborder.io
+linkedin: https://www.linkedin.com/company/money-x-border/
 description:
-  vi: Hạ tầng quyết toán ngoại biên trong sandbox, 24 tháng.
+  vi: 'Doanh nghiệp tại Đà Nẵng xây dựng hạ tầng quyết toán xuyên biên giới cho doanh nghiệp, hỗ trợ thanh toán đa tiền tệ, chi trả và thu hộ quốc tế qua một API; tham gia khung thử nghiệm có kiểm soát của thành phố.'
+  en: 'A Da Nang company building cross-border settlement infrastructure for businesses, supporting multi-currency settlement, international payouts and collections through one API; part of the city''s controlled sandbox.'
 region: da-nang
 verification:
   level: unverified

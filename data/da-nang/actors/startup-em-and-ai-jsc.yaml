@@ -14,7 +14,8 @@ sectors:
 - ai
 address: 179 Tran Hung Dao, Đà Nẵng
 description:
-  vi: Công ty AI tại Đà Nẵng; vòng thiên thần 2022.
+  vi: 'Công ty công nghệ tại Đà Nẵng, thành lập năm 2017, phát triển giải pháp xử lý ngôn ngữ tự nhiên tiếng Việt như chatbot, voicebot và phân tích hội thoại cho tổng đài, phục vụ các doanh nghiệp tài chính, bảo hiểm và chăm sóc khách hàng.'
+  en: 'A Da Nang technology company founded in 2017 that builds Vietnamese natural-language processing products such as chatbots, voicebots and call analytics for contact centres in finance, insurance and customer service.'
 region: da-nang
 verification:
   level: unverified

@@ -2,6 +2,9 @@ id: international-eth-philippines
 name:
   vi: ETH Philippines
 type: international
+description:
+  vi: 'Cộng đồng Ethereum tại Philippines (ETHPH), tổ chức sự kiện, hackathon và chương trình đào tạo lập trình blockchain, chú trọng khu vực Visayas và Mindanao.'
+  en: 'An Ethereum community in the Philippines (ETHPH) that runs events, hackathons and blockchain developer training, with a focus on the Visayas and Mindanao.'
 region: quoc-te
 verification:
   level: unverified

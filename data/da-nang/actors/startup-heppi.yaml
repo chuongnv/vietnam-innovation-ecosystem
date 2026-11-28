@@ -3,6 +3,9 @@ name:
   vi: Heppi
 type: startup
 status: inactive
+description:
+  vi: 'Ứng dụng xây dựng văn hóa doanh nghiệp và gắn kết nhân viên, dùng hệ thống điểm thưởng để đổi quà; tham gia chương trình ươm tạo khóa 10 của DNES.'
+  en: 'An app for building corporate culture and employee engagement through a reward-points system; part of DNES''s 10th incubation batch.'
 region: da-nang
 verification:
   level: partner_verified

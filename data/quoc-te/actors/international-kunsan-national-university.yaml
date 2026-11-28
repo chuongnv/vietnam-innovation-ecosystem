@@ -4,8 +4,10 @@ name:
 type: international
 categories:
 - Đại học Hàn Quốc
+website: https://www.kunsan.ac.kr/
 description:
-  vi: Trường đại học Hàn Quốc, đối tác của SIHUB.
+  vi: 'Đại học quốc gia Hàn Quốc tại thành phố Gunsan, tỉnh Jeolla Bắc, đào tạo và nghiên cứu đa ngành; là đối tác của SIHUB (TP.HCM).'
+  en: 'A Korean national university in Gunsan, North Jeolla Province, offering multidisciplinary teaching and research; a partner of SIHUB (Ho Chi Minh City).'
 region: quoc-te
 verification:
   level: source_checked

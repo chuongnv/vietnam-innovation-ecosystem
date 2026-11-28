@@ -3,6 +3,9 @@ name:
   vi: L-tech
 type: startup
 status: inactive
+description:
+  vi: 'Dự án khởi nghiệp ươm tạo tại DNES (khóa II, 2016) xây dựng trang trại aquaponics kết hợp trồng rau và nuôi cá, cung cấp thực phẩm hữu cơ cho khách sạn, nhà hàng ở Đà Nẵng.'
+  en: 'Startup incubated at DNES (batch II, 2016) building an aquaponics farm that combines vegetable growing and fish farming to supply organic food to hotels and restaurants in Da Nang.'
 region: da-nang
 verification:
   level: partner_verified

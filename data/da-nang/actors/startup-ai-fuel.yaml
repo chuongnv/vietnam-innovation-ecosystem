@@ -5,6 +5,9 @@ type: startup
 sectors:
 - ai
 status: active
+description:
+  vi: 'Dự án cung cấp dịch vụ gán nhãn và phân loại dữ liệu cho hệ thống học máy, AI của doanh nghiệp, dùng nhân lực từ các công ty BPO và cộng đồng người dùng internet Việt Nam.'
+  en: 'Startup offering data labelling and classification for companies'' machine-learning and AI systems, using workers from BPO firms and Vietnam''s online community.'
 region: da-nang
 verification:
   level: partner_verified

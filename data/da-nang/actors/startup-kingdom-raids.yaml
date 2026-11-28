@@ -8,6 +8,9 @@ categories:
 sectors:
 - fintech
 - web3
+description:
+  vi: 'Trò chơi nhập vai chiến thuật trên blockchain do studio Alley Labs phát triển, được StartupBlink liệt kê trong nhóm startup tại Đà Nẵng.'
+  en: 'A blockchain-based strategy role-playing game developed by the studio Alley Labs, listed by StartupBlink among Da Nang startups.'
 region: da-nang
 verification:
   level: unverified

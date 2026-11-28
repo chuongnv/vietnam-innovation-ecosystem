@@ -4,8 +4,10 @@ name:
 type: international
 categories:
 - Đại học Hàn Quốc
+website: https://www.jj.ac.kr/
 description:
-  vi: Trường đại học Hàn Quốc, đối tác của SIHUB.
+  vi: 'Trường đại học tư thục tại thành phố Jeonju, tỉnh Jeollabuk-do (Hàn Quốc), đào tạo đại học và sau đại học nhiều ngành; là đối tác hợp tác của SIHUB TP.HCM.'
+  en: 'Private university in Jeonju, North Jeolla Province (South Korea), offering undergraduate and graduate programmes in many fields; a cooperation partner of SIHUB in Ho Chi Minh City.'
 region: quoc-te
 verification:
   level: source_checked

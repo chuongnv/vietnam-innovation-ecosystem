@@ -5,6 +5,9 @@ type: startup
 sectors:
 - tourism
 status: inactive
+description:
+  vi: 'Dự án du lịch cộng đồng kết nối khách quốc tế với người dân địa phương qua các hoạt động văn hóa đời thường, có nhóm bạn trẻ hỗ trợ vượt rào cản ngôn ngữ.'
+  en: 'Community tourism project linking international visitors with local Vietnamese people through everyday cultural activities, with young volunteers bridging the language gap.'
 region: da-nang
 verification:
   level: partner_verified

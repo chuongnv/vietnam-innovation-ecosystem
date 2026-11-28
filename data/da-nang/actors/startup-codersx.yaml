@@ -3,6 +3,9 @@ name:
   vi: CodersX
 type: startup
 status: active
+description:
+  vi: 'Cộng đồng học lập trình trực tuyến miễn phí, tự học theo giáo trình do người sáng lập biên soạn, có hơn 22.000 thành viên theo DNES (Finc khóa 9).'
+  en: 'A free online community for learning programming through founder-written course material, reported by DNES (Finc batch 9) to have over 22,000 members.'
 region: da-nang
 verification:
   level: partner_verified

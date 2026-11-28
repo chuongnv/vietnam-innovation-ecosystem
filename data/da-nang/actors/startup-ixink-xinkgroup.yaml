@@ -8,8 +8,10 @@ categories:
 sectors:
 - ai
 - commerce
+website: https://xinkgroup.com/
 description:
-  vi: Nền tảng thiết kế bằng GenAI cho người bán hàng trực tuyến.
+  vi: 'Công ty phần mềm tại Đà Nẵng (thành lập 2024) phát triển phần mềm, thiết kế giao diện và chuyển đổi số; sở hữu iXinK, sản phẩm dùng AI tạo sinh hỗ trợ người bán hàng trực tuyến thiết kế.'
+  en: 'Da Nang software company (founded 2024) offering software development, UI design and digital transformation; owns iXinK, a generative-AI design product for online sellers.'
 region: da-nang
 verification:
   level: unverified

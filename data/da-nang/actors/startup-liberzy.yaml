@@ -3,6 +3,9 @@ name:
   vi: Liberzy
 type: startup
 status: active
+description:
+  vi: 'Mạng xã hội du lịch cung cấp công cụ để người yêu du lịch tự lập, lưu và chia sẻ lịch trình, bản đồ và trải nghiệm chuyến đi; được Songhan Incubator hỗ trợ.'
+  en: 'A travel social network giving travellers tools to build and share their own itineraries, maps and trip experiences; supported by Songhan Incubator.'
 region: da-nang
 verification:
   level: partner_verified

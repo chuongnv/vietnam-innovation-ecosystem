@@ -10,8 +10,10 @@ categories:
 - Thương mại, fintech
 sectors:
 - fintech
+website: https://basalpay.com
 description:
-  vi: Basal Pay trong sandbox từ 8/2025, 36 tháng.
+  vi: 'Công ty tại Đà Nẵng phát triển Basal Pay, ứng dụng cho phép du khách nước ngoài đổi tài sản số (chủ yếu USDT) sang VND và thanh toán bằng mã QR tại điểm bán, được thí điểm trong khung thử nghiệm có kiểm soát của thành phố.'
+  en: 'A Da Nang company developing Basal Pay, an app that lets foreign visitors convert digital assets (mainly USDT) into VND and pay merchants by QR code, piloted under the city''s controlled regulatory sandbox.'
 region: da-nang
 verification:
   level: unverified

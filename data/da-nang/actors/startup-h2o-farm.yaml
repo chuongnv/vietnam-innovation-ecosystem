@@ -4,6 +4,9 @@ name:
 type: startup
 founded: 2016
 status: active
+description:
+  vi: 'Dự án nông nghiệp công nghệ cao cung cấp giải pháp trồng rau thủy canh hồi lưu (NFT) cho hộ gia đình và trang trại thương mại tại Đà Nẵng, Quảng Nam.'
+  en: 'High-tech farming project supplying recirculating hydroponic (NFT) vegetable-growing systems to households and commercial farms in Da Nang and Quang Nam.'
 region: da-nang
 verification:
   level: partner_verified

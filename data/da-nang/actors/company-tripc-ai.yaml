@@ -7,8 +7,10 @@ categories:
 sectors:
 - ai
 - tourism
+website: https://tripc.ai/
 description:
-  vi: Hệ sinh thái du lịch số.
+  vi: 'Nền tảng du lịch số do Công ty TripC AI (Đà Nẵng) phát triển, cung cấp ứng dụng gợi ý địa điểm, ẩm thực, lưu trú cho du khách và vận hành hộ chiếu du lịch điện tử của Đà Nẵng.'
+  en: 'Digital travel platform developed by TripC AI (Da Nang), offering an app that suggests places, food and accommodation to travellers and runs Da Nang''s electronic tourism passports.'
 region: da-nang
 verification:
   level: unverified

@@ -5,6 +5,9 @@ type: startup
 sectors:
 - ai
 status: active
+description:
+  vi: 'Dự án khởi nghiệp ươm tạo tại DNES (Finc. khóa 8), xây dựng trung tâm thu thập, phân loại, gán nhãn và xử lý dữ liệu phục vụ các đơn vị phát triển ứng dụng AI, doanh nghiệp và cơ quan nhà nước.'
+  en: 'Startup incubated at DNES (Finc. batch 8) that runs a centre for collecting, classifying, labelling and processing data for AI application developers, businesses and government agencies.'
 region: da-nang
 verification:
   level: partner_verified

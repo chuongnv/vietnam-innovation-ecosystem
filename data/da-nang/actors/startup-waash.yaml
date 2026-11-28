@@ -3,6 +3,9 @@ name:
   vi: Waash
 type: startup
 status: inactive
+description:
+  vi: 'Ứng dụng giặt ủi kết nối người có nhu cầu với tiệm giặt và hộ gia đình có máy giặt, đặt dịch vụ qua điện thoại.'
+  en: 'Laundry app connecting customers with laundromats and households that own washing machines, booked by phone.'
 region: da-nang
 verification:
   level: partner_verified

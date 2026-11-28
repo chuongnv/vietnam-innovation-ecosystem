@@ -5,6 +5,9 @@ type: startup
 sectors:
 - ai
 status: inactive
+description:
+  vi: 'Nền tảng tìm kiếm, đào tạo và phát triển nhân lực AI rồi kết nối với nhà tuyển dụng phù hợp; được DNES chọn vào Finc khóa XI (2021).'
+  en: 'Platform for finding, training and developing AI talent and matching them with employers; selected for DNES Finc batch XI (2021).'
 region: da-nang
 verification:
   level: partner_verified

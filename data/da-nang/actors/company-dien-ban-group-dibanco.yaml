@@ -4,9 +4,11 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+website: https://dibanco.com/
 address: Road 3, Hoa Cam Industrial Park, Đà Nẵng
 description:
-  vi: Doanh nghiệp khoa học và công nghệ tại Đà Nẵng.
+  vi: 'Doanh nghiệp sản xuất thuốc bảo vệ thực vật, chế phẩm sinh học, lúa giống và gạo, phục vụ nông dân miền Trung và Tây Nguyên; văn phòng tại KCN Hòa Cầm, Đà Nẵng.'
+  en: 'A company producing crop-protection products, biological preparations, rice seed and rice for farmers in Central Vietnam and the Central Highlands, with an office in Hoa Cam Industrial Park, Da Nang.'
 region: da-nang
 verification:
   level: source_checked

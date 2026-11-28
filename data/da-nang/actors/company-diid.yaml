@@ -4,6 +4,7 @@ name:
 type: company
 sectors:
 - ai
+website: https://diid.vn
 description:
   vi: Công ty trí tuệ dữ liệu tại Đà Nẵng, giúp tổ chức khai thác dữ liệu kinh doanh thành quyết định; đơn vị phát triển DiFlow.
 region: da-nang

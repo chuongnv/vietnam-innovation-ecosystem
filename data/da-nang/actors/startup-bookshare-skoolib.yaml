@@ -7,8 +7,10 @@ categories:
 - Giáo dục
 sectors:
 - edu
+website: https://skoolib.net/
 description:
-  vi: Giải pháp thư viện số cho trường học.
+  vi: 'Ứng dụng quản lý thư viện trên nền tảng đám mây dành cho trường học và thư viện vừa và nhỏ, hỗ trợ biên mục, mượn trả, tra cứu trên web và di động, có gợi ý sách bằng AI; do startup Bookshare phát triển.'
+  en: 'Cloud-based library management app for schools and small-to-medium libraries, supporting cataloguing, circulation, web and mobile search and AI book recommendations; developed by the startup Bookshare.'
 region: da-nang
 verification:
   level: unverified

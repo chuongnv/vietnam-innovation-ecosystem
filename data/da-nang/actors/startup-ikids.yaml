@@ -3,6 +3,9 @@ name:
   vi: IKIDS
 type: startup
 status: inactive
+description:
+  vi: 'Dự án trung tâm sáng tạo dành cho trẻ em do nhóm bạn trẻ lập ra, tổ chức các lớp STEM và mỹ thuật, khởi đầu bằng lớp dạy vẽ.'
+  en: 'A creative learning centre project for children set up by a young team, offering STEM and art classes, starting with drawing lessons.'
 region: da-nang
 verification:
   level: partner_verified

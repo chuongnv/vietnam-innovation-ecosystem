@@ -4,8 +4,10 @@ name:
 type: international
 categories:
 - Đại học Hàn Quốc
+website: https://www.skku.edu/
 description:
-  vi: Trường đại học Hàn Quốc, đối tác của SIHUB.
+  vi: 'Đại học tư thục của Hàn Quốc với hai cơ sở tại Seoul và Suwon, đào tạo và nghiên cứu đa ngành; là một trong các trường đối tác hợp tác của SIHUB.'
+  en: 'A private South Korean university with campuses in Seoul and Suwon, offering multidisciplinary teaching and research; one of SIHUB''s partner universities.'
 region: quoc-te
 verification:
   level: source_checked

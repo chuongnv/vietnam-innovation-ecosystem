@@ -4,9 +4,12 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+website: https://tg-electric.com.vn/
+linkedin: https://www.linkedin.com/company/truong-giang-electric-jsc/
 address: Lot Q, Road 6B-7A Hoa Khanh Industrial Park, Đà Nẵng
 description:
-  vi: Doanh nghiệp khoa học và công nghệ tại Đà Nẵng.
+  vi: 'Doanh nghiệp tại KCN Hòa Khánh, Đà Nẵng, thiết kế và sản xuất tủ điện trung thế, hạ thế, trạm biến áp kiosk và máy cắt chân không cho các công trình điện công nghiệp.'
+  en: 'A company in Hoa Khanh Industrial Zone, Da Nang, that designs and manufactures medium- and low-voltage switchgear, kiosk substations and vacuum circuit breakers for industrial power projects.'
 region: da-nang
 verification:
   level: source_checked

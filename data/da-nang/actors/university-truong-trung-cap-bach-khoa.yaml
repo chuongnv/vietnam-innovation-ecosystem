@@ -5,6 +5,9 @@ type: university
 categories:
 - Viện, trường
 address: 246 Phan Châu Trinh, Tam Kỳ, Quảng Nam
+description:
+  vi: 'Trường trung cấp tại TP. Tam Kỳ, Quảng Nam cũ (nay thuộc TP. Đà Nẵng), đào tạo nghề nghiệp trình độ trung cấp.'
+  en: 'A vocational secondary school in Tam Ky, former Quang Nam province (now part of Da Nang city), offering intermediate-level vocational training.'
 region: da-nang
 verification:
   level: unverified

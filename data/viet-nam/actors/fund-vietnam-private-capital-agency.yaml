@@ -4,6 +4,10 @@ name:
 type: fund
 sectors:
 - marketing
+website: https://www.vpca.vn/
+description:
+  vi: 'Tổ chức tập hợp các quỹ đầu tư mạo hiểm và quỹ đầu tư tư nhân tại Việt Nam, thúc đẩy thông lệ tốt, phát triển nhân lực và thị trường vốn tư nhân.'
+  en: 'An organisation of venture capital and private equity firms in Vietnam that promotes industry best practice, talent and the growth of the private capital market.'
 region: viet-nam
 verification:
   level: unverified

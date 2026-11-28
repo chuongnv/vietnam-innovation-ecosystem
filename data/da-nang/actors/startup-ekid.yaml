@@ -3,6 +3,9 @@ name:
   vi: EKID
 type: startup
 status: inactive
+description:
+  vi: 'Dự án bộ công cụ học lập trình dựa trên nền tảng Arduino, tham gia chương trình ươm tạo khóa III của DNES.'
+  en: 'Project developing an Arduino-based toolkit for learning programming; part of DNES incubation batch III.'
 region: da-nang
 verification:
   level: partner_verified

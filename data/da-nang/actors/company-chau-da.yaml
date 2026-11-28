@@ -4,9 +4,11 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+website: https://chauda.com.vn/
 address: Road 2, Hoa Cam Industrial Park, Cam Le District, Đà Nẵng
 description:
-  vi: Doanh nghiệp khoa học và công nghệ tại Đà Nẵng.
+  vi: 'Doanh nghiệp cơ khí tại Đà Nẵng, nhận gia công CNC, gia công thép tấm và thép hình, chế tạo máy móc cơ khí, cải tiến dây chuyền sản xuất và tự động hóa cho nhà máy.'
+  en: 'A Da Nang engineering company providing CNC machining, sheet and structural steel fabrication, machine building, and production-line improvement and automation for factories.'
 region: da-nang
 verification:
   level: source_checked
