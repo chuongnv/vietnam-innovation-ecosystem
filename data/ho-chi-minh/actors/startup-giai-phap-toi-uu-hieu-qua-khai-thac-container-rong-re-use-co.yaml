@@ -9,7 +9,8 @@ sectors:
 founded: 2025
 address: 148/19/22/7 đường Trường Lưu, khu phố 29, phường Long Trường, Thành phố Hồ Chí Minh.
 description:
-  vi: 'Hồ sơ trên HOIP: lĩnh vực phương tiện vận tải, logistics; thành lập năm 2025; giai đoạn Sản phẩm / Dịch vụ Sơ khai (MVP).'
+  vi: 'Giải pháp logistics tái sử dụng container rỗng của hàng nhập khẩu để đóng hàng xuất khẩu mà không cần trả về bãi, giúp doanh nghiệp xuất nhập khẩu, vận tải và hãng tàu giảm chi phí nhiên liệu và áp lực bến bãi.'
+  en: 'A logistics solution that reuses empty import containers to load export cargo without first returning them to the depot, helping importers/exporters, hauliers and shipping lines cut fuel costs and yard congestion.'
 description_source:
   text: -- Phương tiện VT - logistic Nền Tảng Kinh Tế Chia Sẻ 26-08-2025 Việt Nam Toàn quốc Tối ưu hóa vòng luân chuyển container bằng cách sử dụng container rỗng hàng nhập khẩu để đóng hàng xuất khẩu ngay sau khi trả hàng nhập khẩu (mà không cần trả ngay Container rỗng về Depot hiện hữu), giúp giảm thiểu chi phí nhiên liệu xe đầu kéo, giảm áp lực giao thông, giảm áp lực bến bãi từ đó giúp Doanh nghiệp xuất nhập khẩu; Doanh nghiệp vận tải và hãng tàu tối ưu hóa được chi phí kinh doanh, tăng lợi nhuận.
   source: HOIP (tự giới thiệu)
