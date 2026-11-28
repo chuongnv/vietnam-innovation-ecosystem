@@ -10,6 +10,9 @@ coordinates:
 - 108.169924
 - 16.076879
 coordinates_source: OpenStreetMap Nominatim 11/2026, tuyến đường
+description:
+  vi: Trường cao đẳng công lập thuộc Bộ Công Thương tại Đà Nẵng, đào tạo các ngành quản trị kinh doanh, kế toán – tài chính, du lịch – khách sạn, nhà hàng, marketing và ngoại ngữ.
+  en: Public college under the Ministry of Industry and Trade in Da Nang, offering programmes in business administration, accounting and finance, tourism and hospitality, restaurant management, marketing and foreign languages.
 region: da-nang
 verification:
   level: unverified

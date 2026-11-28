@@ -3,6 +3,9 @@ name:
   vi: NAPA Global
 type: international
 website: https://napaglobal.com/
+description:
+  vi: 'Công ty dịch vụ và tư vấn CNTT, phát triển phần mềm theo yêu cầu: blockchain, AI, ứng dụng di động, web, game, hệ thống nhúng và kiểm thử, phục vụ khách hàng quốc tế, trong đó có Nhật Bản.'
+  en: IT services and consulting company providing custom software development — blockchain, AI, mobile, web, games, embedded systems and testing — for international clients including Japan.
 region: quoc-te
 verification:
   level: unverified

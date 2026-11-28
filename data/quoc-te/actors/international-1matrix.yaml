@@ -3,6 +3,9 @@ name:
   vi: 1Matrix
 type: international
 website: https://1matrix.org/
+description:
+  vi: Công ty công nghệ phát triển nền tảng blockchain Layer-1 'Make in Vietnam', cung cấp dịch vụ blockchain (BaaS) cho doanh nghiệp, cơ quan nhà nước và startup, và vận hành hạ tầng cho mạng dịch vụ blockchain đa chuỗi VBSN.
+  en: Technology company building a 'Make in Vietnam' Layer-1 blockchain, offering blockchain-as-a-service to businesses, government agencies and startups, and operating infrastructure for the VBSN multi-chain blockchain service network.
 region: quoc-te
 verification:
   level: unverified

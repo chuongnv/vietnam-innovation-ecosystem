@@ -3,6 +3,9 @@ name:
   vi: BambuUP
 type: international
 website: https://bambuup.com/
+description:
+  vi: Nền tảng đổi mới sáng tạo mở tại Việt Nam, kết nối startup với doanh nghiệp, viện nghiên cứu, địa phương và nhà đầu tư; cung cấp thách thức đổi mới, dữ liệu thị trường, chương trình tăng tốc và dịch vụ đầu tư.
+  en: Open-innovation platform in Vietnam connecting startups with corporations, research institutions, localities and investors; offers innovation challenges, market data, accelerator programmes and investment services.
 region: quoc-te
 verification:
   level: unverified

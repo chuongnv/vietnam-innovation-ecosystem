@@ -5,6 +5,9 @@ type: startup
 sectors:
 - agrifood
 website: https://www.truongxuaninterfoods.com/
+description:
+  vi: Công ty cổ phần chế biến thực phẩm truyền thống thành lập năm 2025, có xưởng tại Núi Thành (Quảng Nam cũ), sản xuất bánh chưng, bánh tét, món ăn chế biến sẵn và đặc sản xứ Quảng như mì Quảng, hướng tới xuất khẩu.
+  en: Joint-stock food company founded in 2025 with a processing plant in Nui Thanh (former Quang Nam province), making banh chung, banh tet, ready-to-eat dishes and Quang-region specialties such as mi Quang, with an export focus.
 region: da-nang
 website_status: Hoạt động
 verification:

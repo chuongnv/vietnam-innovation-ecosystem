@@ -3,6 +3,9 @@ name:
   vi: HashKey
 type: international
 website: https://www.hashkey.com/
+description:
+  vi: Tập đoàn tài sản số có trụ sở ở Hồng Kông, vận hành sàn giao dịch tài sản số được cấp phép, quản lý quỹ đầu tư blockchain (HashKey Capital) và cung cấp hạ tầng, dịch vụ Web3 cho tổ chức.
+  en: Hong Kong-based digital asset group operating licensed crypto exchanges, a blockchain investment arm (HashKey Capital) and Web3 infrastructure services for institutions.
 region: quoc-te
 verification:
   level: unverified

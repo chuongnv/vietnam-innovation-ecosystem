@@ -10,6 +10,9 @@ coordinates:
 - 108.475329
 - 15.578751
 coordinates_source: OpenStreetMap Nominatim 11/2026, tuyến đường
+description:
+  vi: Trường trung cấp ở Đà Nẵng, tuyển sinh và đào tạo hệ trung cấp các ngành kinh tế, kỹ thuật, đồng thời bồi dưỡng cán bộ quản lý hợp tác xã cho khu vực miền Trung và Tây Nguyên.
+  en: Vocational school in Da Nang offering intermediate-level programmes in economics and technical fields, and training cooperative (HTX) managers for the Central and Central Highlands regions.
 region: da-nang
 verification:
   level: unverified

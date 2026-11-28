@@ -12,6 +12,9 @@ coordinates:
 - 108.213211
 - 16.077851
 coordinates_source: OpenStreetMap Nominatim 11/2026, số nhà
+description:
+  vi: Trường đại học công lập thuộc Đại học Đà Nẵng, đào tạo kỹ sư công nghệ, kỹ thuật và giáo viên kỹ thuật ở trình độ đại học, sau đại học; trụ sở tại 48 Cao Thắng, Đà Nẵng.
+  en: Public university under the University of Da Nang, training engineering and technology engineers and technical teachers at undergraduate and postgraduate levels; based at 48 Cao Thang, Da Nang.
 region: da-nang
 verification:
   level: unverified

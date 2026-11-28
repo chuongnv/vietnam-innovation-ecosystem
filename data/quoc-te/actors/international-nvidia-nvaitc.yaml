@@ -3,6 +3,9 @@ name:
   vi: Nvidia Nvaitc
 type: international
 website: https://www.nvidia.com/en-us/research/ai-technology-center/
+description:
+  vi: Trung tâm Công nghệ AI của NVIDIA (NVAITC), hợp tác với trường đại học và viện nghiên cứu để thúc đẩy nghiên cứu, ứng dụng AI và điện toán hiệu năng cao, hỗ trợ chuyên gia và hạ tầng tính toán.
+  en: NVIDIA AI Technology Center (NVAITC), which partners with universities and research institutes to advance AI and high-performance computing research, providing expertise and computing resources.
 region: quoc-te
 verification:
   level: unverified

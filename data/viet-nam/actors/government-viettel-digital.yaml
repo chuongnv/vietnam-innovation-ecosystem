@@ -3,6 +3,9 @@ name:
   vi: Viettel Digital
 type: government
 website: https://viettel.digital/
+description:
+  vi: Tổng Công ty Dịch vụ số Viettel, đơn vị thành viên của Tập đoàn Viettel thành lập năm 2019, phát triển dịch vụ tài chính số, trong đó có ứng dụng Viettel Money cho thanh toán, chuyển tiền.
+  en: Viettel Digital Services Corporation, a Viettel Group subsidiary founded in 2019, developing digital financial services including the Viettel Money app for payments and transfers.
 region: viet-nam
 verification:
   level: unverified

@@ -3,6 +3,9 @@ name:
   vi: Moca Network
 type: international
 website: https://www.mocaverse.xyz/
+description:
+  vi: Dự án Web3 của Animoca Brands, phát triển từ bộ sưu tập NFT Mocaverse thành mạng định danh số và tài khoản dùng chung cho người dùng, ứng dụng trong hệ sinh thái của Animoca.
+  en: Animoca Brands Web3 project that grew from the Mocaverse NFT membership collection into a digital identity and shared-account network for users and apps across the Animoca ecosystem.
 region: quoc-te
 verification:
   level: unverified

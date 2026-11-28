@@ -3,6 +3,9 @@ name:
   vi: SCEX
 type: fund
 website: https://scex.vn/
+description:
+  vi: Sàn giao dịch tài sản mã hóa Sacom (SCEX), thành lập năm 2025, trụ sở tại Hà Nội, liên quan đến Sacombank; đang chờ Bộ Tài chính cấp phép và đã ra mắt ứng dụng giao dịch mô phỏng.
+  en: Sacom Crypto Asset Exchange (SCEX), set up in 2025 and headquartered in Hanoi, linked to Sacombank; awaiting a Ministry of Finance licence and has launched a simulated trading app.
 region: viet-nam
 verification:
   level: unverified

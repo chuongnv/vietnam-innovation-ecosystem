@@ -5,6 +5,9 @@ type: fund
 sectors:
 - web3
 website: https://tron.network/
+description:
+  vi: Nhánh đầu tư của TRON DAO, cộng đồng phát triển blockchain TRON; rót vốn và hỗ trợ các dự án, startup xây dựng ứng dụng Web3, DeFi và hạ tầng trên mạng TRON.
+  en: Investment arm of TRON DAO, the community behind the TRON blockchain; funds and supports projects and startups building Web3, DeFi and infrastructure on the TRON network.
 region: quoc-te
 verification:
   level: source_checked

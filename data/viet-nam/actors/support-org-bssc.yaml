@@ -3,6 +3,9 @@ name:
   vi: BSSC
 type: support_org
 website: https://bssc.vn/
+description:
+  vi: Trung tâm Hỗ trợ thanh niên khởi nghiệp TP.HCM (BSSC), thành lập theo quyết định của UBND TP.HCM, hỗ trợ đào tạo, cố vấn, kết nối và thương mại hóa cho startup; năm 2026 được sáp nhập vào SIHUB.
+  en: Ho Chi Minh City Business Startup Support Centre (BSSC), set up by decision of the HCMC People's Committee, providing training, mentoring, networking and commercialisation support to startups; merged into SIHUB in 2026.
 region: viet-nam
 website_status: bssc.vn chuyển hướng sang sihub.gov.vn (11/2026)
 verification:

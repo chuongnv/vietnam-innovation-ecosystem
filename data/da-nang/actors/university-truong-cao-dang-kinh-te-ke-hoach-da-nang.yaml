@@ -10,6 +10,9 @@ coordinates:
 - 108.146353
 - 16.081894
 coordinates_source: OpenStreetMap Nominatim 11/2026, tuyến đường
+description:
+  vi: Nay là Phân hiệu Đà Nẵng của Học viện Chính sách và Phát triển (Bộ Tài chính), tại Liên Chiểu, đào tạo các ngành kinh tế, tài chính, kế hoạch – đầu tư và quản lý ở trình độ đại học.
+  en: Now the Da Nang branch of the Academy of Policy and Development (Ministry of Finance), in Lien Chieu, offering university programmes in economics, finance, planning and investment, and management.
 region: da-nang
 verification:
   level: unverified

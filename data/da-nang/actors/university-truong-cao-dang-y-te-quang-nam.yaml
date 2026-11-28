@@ -10,6 +10,9 @@ coordinates:
 - 108.477058
 - 15.572814
 coordinates_source: OpenStreetMap Nominatim 11/2026, tuyến đường
+description:
+  vi: Trường cao đẳng y tế công lập của tỉnh Quảng Nam (cũ), đặt tại Tam Kỳ, đào tạo nhân lực ngành sức khỏe như điều dưỡng ở trình độ cao đẳng, trung cấp.
+  en: Public medical college of former Quang Nam province, located in Tam Ky, training health workers such as nurses at college and intermediate levels.
 region: da-nang
 verification:
   level: unverified

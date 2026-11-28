@@ -5,6 +5,9 @@ type: startup
 founded: 2022
 status: active
 website: https://bizverse.io
+description:
+  vi: Doanh nghiệp công nghệ phát triển nền tảng metaverse và bản sao số (digital twin), cho phép doanh nghiệp dựng cửa hàng, sự kiện, triển lãm trong không gian 3D; từng là đối tác số hóa điểm đến du lịch của Đà Nẵng.
+  en: Technology company building a metaverse and digital-twin platform where businesses can set up stores, events and exhibitions in 3D virtual space; it was a technology partner for promoting Da Nang tourism destinations online.
 region: da-nang
 verification:
   level: partner_verified

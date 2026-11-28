@@ -5,6 +5,9 @@ type: startup
 founded: 2026
 status: active
 website: https://vhfresh.vn
+description:
+  vi: Đơn vị ở Đà Nẵng kinh doanh nông sản và thực phẩm tự nhiên như sữa hạt NuBa, mật ong, gia vị chay, trà và các loại đậu, bán trực tuyến kèm chương trình cộng tác viên.
+  en: Da Nang-based seller of natural farm and food products such as NuBa nut milk, honey, vegetarian seasonings, teas and beans, selling online with an affiliate programme.
 region: da-nang
 verification:
   level: partner_verified

@@ -10,6 +10,9 @@ coordinates:
 - 108.217727
 - 16.036924
 coordinates_source: OpenStreetMap Nominatim 11/2026, tuyến đường
+description:
+  vi: Trường cao đẳng ở Đà Nẵng đào tạo các khối ngành y dược, kỹ thuật – công nghệ, kinh tế – du lịch và ngoại ngữ ở trình độ cao đẳng, trung cấp, liên thông và văn bằng hai.
+  en: College in Da Nang offering programmes in health and pharmacy, engineering and technology, business and tourism, and foreign languages at college, intermediate, bridging and second-degree levels.
 region: da-nang
 verification:
   level: unverified

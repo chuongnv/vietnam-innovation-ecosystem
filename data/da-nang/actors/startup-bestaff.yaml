@@ -5,6 +5,9 @@ type: startup
 founded: 2020
 status: active
 website: https://bestaff.io
+description:
+  vi: Ứng dụng quản lý nhân sự cho ngành dịch vụ (nhà hàng, cửa hàng) trên điện thoại và web, hỗ trợ chấm công tự động và xếp ca làm việc; do nhóm Tekup Solutions ở Đà Nẵng phát triển, ra mắt năm 2021.
+  en: Staff-management app for service businesses such as restaurants and shops, on mobile and web, offering automatic timekeeping and shift scheduling; built by the Tekup Solutions team in Da Nang and launched in 2021.
 region: da-nang
 verification:
   level: partner_verified

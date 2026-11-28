@@ -1,11 +1,11 @@
 dia_phuong,id,ten,loai,website,nguon_logo_de_xuat,trang_thai
-Đà Nẵng,university-truong-cao-dang-bach-khoa-da-nang,Trường Cao đẳng Bách Khoa Đà Nẵng,university,https://bachkhoadanang.edu.vn/,,chưa có
+Đà Nẵng,university-truong-cao-dang-bach-khoa-da-nang,Trường Cao đẳng Bách Khoa Đà Nẵng,university,https://bachkhoadanang.edu.vn/,,chưa tìm được (11/2026): website chỉ có favicon 16 px
 Đà Nẵng,university-truong-cao-dang-phuong-dong,Trường Cao đẳng Phương Đông,university,,,chưa có
-Đà Nẵng,university-truong-cao-dang-quang-nam,Trường Cao đẳng Quảng Nam,university,https://cdqnam.edu.vn/,,chưa có
+Đà Nẵng,university-truong-cao-dang-quang-nam,Trường Cao đẳng Quảng Nam,university,https://cdqnam.edu.vn/,,"chưa tìm được (11/2026): website lỗi chứng chỉ, không tải được"
 Đà Nẵng,university-truong-trung-cap-bach-khoa,Trường Trung cấp Bách Khoa,university,,,chưa có
 Đà Nẵng,university-truong-trung-cap-quang-dong,Trường Trung cấp Quảng Đông,university,,,chưa có
 Đà Nẵng,university-vien-duoc-lieu-bo-y-te,Viện Dược liệu (Bộ Y tế),university,,,chưa có
-Đà Nẵng,government-ban-quan-ly-khu-cong-nghe-cao-va-cac-kcn,Ban Quản lý Khu công nghệ cao và các KCN,government,https://dseza.danang.gov.vn/,,chưa có
+Đà Nẵng,government-ban-quan-ly-khu-cong-nghe-cao-va-cac-kcn,Ban Quản lý Khu công nghệ cao và các KCN,government,https://dseza.danang.gov.vn/,https://dseza.danang.gov.vn/ (biểu tượng trang),đã có (11/2026)
 Đà Nẵng,government-ban-quan-ly-khu-kinh-te-mo-chu-lai,Ban Quản lý Khu kinh tế mở Chu Lai,government,,,chưa có
 Đà Nẵng,government-cuc-cong-nghe-so-va-tri-tue-nhan-tao-bo-kh-cn,Cục Công nghệ số và Trí tuệ nhân tạo (Bộ KH&CN),government,,,chưa có
 Đà Nẵng,government-da-nang-free-trade-zone,Da Nang Free Trade Zone,government,,,chưa có
@@ -15,7 +15,7 @@ dia_phuong,id,ten,loai,website,nguon_logo_de_xuat,trang_thai
 Đà Nẵng,government-trung-tam-thong-tin-va-giam-sat-dieu-hanh-thong-minh,Trung tâm Thông tin và giám sát điều hành thông minh,government,,,chưa có
 Đà Nẵng,government-trung-tam-ung-dung-kh-cn-va-tieu-chuan-do-luong-chat-luong,Trung tâm Ứng dụng KH&CN và Tiêu chuẩn Đo lường Chất lượng,government,,,chưa có
 Đà Nẵng,government-vietnam,Vietnam,government,,,chưa có
-Đà Nẵng,fund-quy-doi-moi-cong-nghe-quoc-gia-natif,Quỹ Đổi mới công nghệ quốc gia (NATIF),fund,https://natif.vn/,,chưa có
+Đà Nẵng,fund-quy-doi-moi-cong-nghe-quoc-gia-natif,Quỹ Đổi mới công nghệ quốc gia (NATIF),fund,https://natif.vn/,,chưa tìm được (11/2026): tên miền natif.vn không truy cập được
 Đà Nẵng,space-khong-gian-doi-moi-sang-tao-quoc-te,Không gian đổi mới sáng tạo Quốc tế,space,,,chưa có
 Đà Nẵng,space-khong-gian-doi-moi-sang-tao-da-nang-daegu,Không gian đổi mới sáng tạo Đà Nẵng – Daegu,space,,,chưa có
 Đà Nẵng,space-khong-gian-doi-moi-sang-tao-da-nang-seoul,Không gian đổi mới sáng tạo Đà Nẵng – Seoul,space,,,chưa có
@@ -23,11 +23,11 @@ dia_phuong,id,ten,loai,website,nguon_logo_de_xuat,trang_thai
 Đà Nẵng,space-khong-gian-doi-moi-sang-tao-da-nang-vung-vinh-lon,Không gian đổi mới sáng tạo Đà Nẵng – Vùng Vịnh Lớn (Trung Quốc),space,,,chưa có
 Đà Nẵng,space-vybe-hoi-doanh-nghiep-tre-viet-nam-tai-chau-au,VYBE – Hội Doanh Nghiệp Trẻ Việt Nam Tại Châu Âu,space,,,chưa có
 Đà Nẵng,support-org-ai-tinkerers-da-nang,AI Tinkerers Đà Nẵng,support_org,,,chưa có
-Đà Nẵng,support-org-enouvo-space,Enouvo Space,support_org,https://enouvospace.com,,chưa có
-Đà Nẵng,support-org-trung-tam-khoi-nghiep-dtu,Trung tâm Khởi nghiệp Đại học Duy Tân,support_org,,,chưa có
-Đà Nẵng,support-org-trung-tam-khoi-nghiep-doi-moi-sang-tao-va-nghien-cuu-khoa-ho,Trung tâm khởi nghiệp đổi mới sáng tạo và nghiên cứu khoa học Greenwich Innovation Centre,support_org,,,chưa có
-Đà Nẵng,support-org-trung-tam-dmst-va-ho-tro-khoi-nghiep-dh-su-pham-dhdn,"Trung tâm Đổi mới sáng tạo và Hỗ trợ khởi nghiệp, Trường Đại học Sư phạm – ĐHĐN (UED Innovation & Startup Hub)",support_org,,,chưa có
-Đà Nẵng,support-org-vien-sang-tao-khoi-nghiep-dh-spkt,"Viện Nghiên cứu Sáng tạo và Khởi nghiệp, Trường Đại học Sư phạm Kỹ thuật – ĐHĐN",support_org,,,chưa có
+Đà Nẵng,support-org-enouvo-space,Enouvo Space,support_org,https://enouvospace.com,,chưa tìm được (11/2026): tên miền enouvospace.com đã ngừng
+Đà Nẵng,support-org-trung-tam-khoi-nghiep-dtu,Trung tâm Khởi nghiệp Đại học Duy Tân,support_org,,,đã có
+Đà Nẵng,support-org-trung-tam-khoi-nghiep-doi-moi-sang-tao-va-nghien-cuu-khoa-ho,Trung tâm khởi nghiệp đổi mới sáng tạo và nghiên cứu khoa học Greenwich Innovation Centre,support_org,,,đã có
+Đà Nẵng,support-org-trung-tam-dmst-va-ho-tro-khoi-nghiep-dh-su-pham-dhdn,"Trung tâm Đổi mới sáng tạo và Hỗ trợ khởi nghiệp, Trường Đại học Sư phạm – ĐHĐN (UED Innovation & Startup Hub)",support_org,,,đã có
+Đà Nẵng,support-org-vien-sang-tao-khoi-nghiep-dh-spkt,"Viện Nghiên cứu Sáng tạo và Khởi nghiệp, Trường Đại học Sư phạm Kỹ thuật – ĐHĐN",support_org,,,đã có
 TP.HCM,research-chi-cuc-tieu-chuan-do-luong-chat-luong,Chi cục Tiêu chuẩn Đo lường Chất lượng Thành phố Hồ Chí Minh,research,,,chưa có
 TP.HCM,research-hoc-vien-kinh-te-nang-luong,Học Viện Kinh Tế - Năng Lượng,research,,,chưa có
 TP.HCM,research-hoc-vien-so-huu-tri-tue-quoc-te,Học Viện Sở Hữu Trí Tuệ Quốc Tế,research,,,chưa có

@@ -3,6 +3,9 @@ name:
   vi: StraitsX
 type: international
 website: https://www.straitsx.com/
+description:
+  vi: Công ty hạ tầng thanh toán ở Singapore, được MAS cấp phép, phát hành stablecoin như XSGD, XUSD và cung cấp dịch vụ thanh toán, phát hành thẻ, QR xuyên biên giới cho doanh nghiệp.
+  en: Singapore payments infrastructure company licensed by MAS, issuing stablecoins such as XSGD and XUSD and providing payments, card issuance and cross-border QR services for businesses.
 region: quoc-te
 verification:
   level: unverified

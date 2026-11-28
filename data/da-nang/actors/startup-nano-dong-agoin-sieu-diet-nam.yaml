@@ -5,6 +5,9 @@ type: startup
 sectors:
 - deeptech
 website: https://agoin.com.vn/vi
+description:
+  vi: Thương hiệu chế phẩm nano cho cây trồng (nano đồng, nano bạc, nano đồng – bạc), dùng phun lá và tưới gốc để bổ sung vi lượng và phòng trừ nấm bệnh, hướng tới nông nghiệp hữu cơ.
+  en: Brand of nano preparations for crops (nano copper, nano silver, copper-silver blends), applied as foliar sprays or root drench to supply micronutrients and control fungal diseases, aimed at organic farming.
 region: da-nang
 website_status: Không truy cập được, cần kiểm tra
 verification:

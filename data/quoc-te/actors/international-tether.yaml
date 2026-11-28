@@ -3,6 +3,9 @@ name:
   vi: Tether
 type: international
 website: https://tether.to/
+description:
+  vi: Công ty phát hành stablecoin USDT (Tether) neo theo đô la Mỹ cùng các stablecoin khác, dùng rộng rãi trong giao dịch và thanh toán tài sản số trên nhiều mạng blockchain.
+  en: Issuer of the USD-pegged USDT (Tether) stablecoin and other stablecoins, widely used for trading and payments with digital assets across many blockchains.
 region: quoc-te
 verification:
   level: unverified

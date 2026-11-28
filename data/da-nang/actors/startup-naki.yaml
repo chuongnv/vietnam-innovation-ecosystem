@@ -5,6 +5,9 @@ type: startup
 founded: 2024
 status: active
 website: https://naki.ai
+description:
+  vi: Startup AI giai đoạn tiền hạt giống, thành lập năm 2024, xây dựng avatar AI cá nhân hóa đại diện cho thương hiệu để tạo nội dung và tương tác với khách hàng; có trong danh mục đầu tư của Antler.
+  en: Pre-seed AI startup founded in 2024 that builds personalised AI avatars to represent brands, producing content and handling customer engagement; listed in Antler's portfolio.
 region: da-nang
 verification:
   level: partner_verified

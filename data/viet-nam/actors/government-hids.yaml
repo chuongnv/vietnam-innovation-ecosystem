@@ -3,6 +3,9 @@ name:
   vi: HIDS
 type: government
 website: https://hids.hochiminhcity.gov.vn/
+description:
+  vi: Viện Nghiên cứu phát triển TP.HCM, cơ quan nghiên cứu, tham mưu chính sách về kinh tế, xã hội và môi trường đô thị của thành phố; từ tháng 10/2026 sáp nhập vào Học viện Cán bộ TP.HCM.
+  en: Ho Chi Minh City Institute for Development Studies, a research and policy advisory body on the city's economic, social and urban environment issues; merged into the HCMC Cadre Academy in October 2026.
 region: viet-nam
 verification:
   level: unverified

@@ -4,6 +4,9 @@ name:
 type: startup
 status: active
 website: https://deepcare.io
+description:
+  vi: Công ty cổ phần Deepcare Việt Nam phát triển nền tảng chăm sóc sức khỏe từ xa, gồm ứng dụng OnCare (H247) tư vấn khám bệnh theo mô hình bác sĩ gia đình, quản lý bệnh mạn tính và đồng bộ hồ sơ sức khỏe.
+  en: Deepcare Vietnam JSC develops a telehealth platform, including the OnCare (H247) app for remote consultations under a family-doctor model, chronic-disease management and synced health records.
 region: da-nang
 verification:
   level: partner_verified

@@ -4,6 +4,9 @@ name:
 type: support_org
 founded: 2024
 website: https://shtt.hcmulaw.edu.vn/
+description:
+  vi: Viện trực thuộc Trường Đại học Luật TP.HCM, tổ chức các khóa đào tạo về sở hữu trí tuệ (có khóa phối hợp với Cục SHTT), hội thảo, tư liệu pháp lý và hỗ trợ quản lý tài sản trí tuệ, khởi nghiệp.
+  en: Institute under Ho Chi Minh City University of Law offering intellectual-property training courses (some with the national IP Office), seminars and legal resources, and supporting IP management and startups.
 region: ho-chi-minh
 verification:
   level: unverified

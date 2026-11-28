@@ -3,6 +3,9 @@ name:
   vi: HSC
 type: fund
 website: https://www.hsc.com.vn/
+description:
+  vi: Công ty Cổ phần Chứng khoán TP.HCM (HSC), cung cấp dịch vụ môi giới chứng khoán, ngân hàng đầu tư, nghiên cứu và tư vấn tài chính cho nhà đầu tư cá nhân và tổ chức.
+  en: Ho Chi Minh City Securities Corporation (HSC), providing securities brokerage, investment banking, research and financial advisory services to individual and institutional investors.
 region: viet-nam
 verification:
   level: unverified

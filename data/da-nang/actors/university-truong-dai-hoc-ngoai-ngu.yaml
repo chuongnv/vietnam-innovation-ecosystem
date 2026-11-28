@@ -12,6 +12,9 @@ coordinates:
 - 108.21164
 - 16.034454
 coordinates_source: OpenStreetMap Nominatim 11/2026, số nhà
+description:
+  vi: Trường thành viên của Đại học Đà Nẵng, đào tạo ngoại ngữ (Anh, Trung, Nhật, Hàn, Pháp, Nga, Thái), sư phạm ngoại ngữ và quốc tế học ở bậc đại học và sau đại học.
+  en: Member school of the University of Da Nang, offering undergraduate and postgraduate programmes in foreign languages (English, Chinese, Japanese, Korean, French, Russian, Thai), language teacher education and international studies.
 region: da-nang
 verification:
   level: unverified

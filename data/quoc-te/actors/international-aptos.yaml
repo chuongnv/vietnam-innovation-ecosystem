@@ -3,6 +3,9 @@ name:
   vi: Aptos
 type: international
 website: https://aptosfoundation.org/
+description:
+  vi: Aptos Foundation hỗ trợ phát triển Aptos, mạng blockchain Layer-1 dùng ngôn ngữ lập trình Move; cấp tài trợ, chương trình hỗ trợ nhà phát triển và cộng đồng xây dựng ứng dụng trên mạng này.
+  en: The Aptos Foundation supports the development of Aptos, a Layer-1 blockchain using the Move programming language, through grants and programmes for developers and builders on the network.
 region: quoc-te
 verification:
   level: unverified
