@@ -2,6 +2,7 @@ site/
 __pycache__/
 .venv/
 .DS_Store
+.cache/
 
 # Dữ liệu liên hệ cá nhân, không đưa lên kho
 private/

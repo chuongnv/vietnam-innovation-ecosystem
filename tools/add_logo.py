@@ -24,21 +24,25 @@ def load(src):
         im = max((im.ico.getimage(s) for s in im.ico.sizes()), key=lambda x: x.size[0])
     return im.convert("RGBA")
 
+def save(aid, src, bg=None):
+    """bg: màu nền (vd "#222") cho logo trắng, để không bị chìm trên nền trắng của trang."""
+    im = load(src)
+    bb = im.getbbox()
+    if bb: im = im.crop(bb)
+    im.thumbnail((112, 112) if bg else (128, 128), Image.LANCZOS)
+    out = Image.new("RGBA", (128, 128), bg or (0, 0, 0, 0))
+    out.paste(im, ((128 - im.size[0]) // 2, (128 - im.size[1]) // 2), im)
+    path = os.path.join(ROOT, "logos", aid + ".webp")
+    out.save(path, "WEBP", quality=90, method=6)
+    return path
+
 def main():
     if len(sys.argv) != 3:
         sys.exit(__doc__)
     aid, src = sys.argv[1], sys.argv[2]
     if not any(os.path.exists(os.path.join(ROOT, "data", r, "actors", aid + ".yaml")) for r in os.listdir(os.path.join(ROOT, "data")) if os.path.isdir(os.path.join(ROOT, "data", r))):
         sys.exit(f"Không thấy hồ sơ '{aid}' trong data/*/actors/")
-    im = load(src)
-    bb = im.getbbox()
-    if bb: im = im.crop(bb)
-    im.thumbnail((128, 128), Image.LANCZOS)
-    out = Image.new("RGBA", (128, 128), (0, 0, 0, 0))
-    out.paste(im, ((128 - im.size[0]) // 2, (128 - im.size[1]) // 2), im)
-    path = os.path.join(ROOT, "logos", aid + ".webp")
-    out.save(path, "WEBP", quality=90, method=6)
-    print("Đã lưu", os.path.relpath(path, ROOT))
+    print("Đã lưu", os.path.relpath(save(aid, src), ROOT))
 
 if __name__ == "__main__":
     main()

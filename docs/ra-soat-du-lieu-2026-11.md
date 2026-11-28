@@ -354,3 +354,11 @@ Cổng có 3.523 bộ dữ liệu, phần lớn là dữ liệu hành chính c�
 
 - Đọc sitemap bài viết của haitrieu.com: 390 bài logo trường đại học, học viện, cao đẳng, viện. Ghép với danh bạ theo tên chính xác hoặc tên viết tắt; tên gần giống chỉ dùng để tránh tạo trùng, không dùng để gắn logo.
 - Thêm 78 trường đại học, học viện chưa có trên bản đồ (kèm logo, tên viết tắt, mức "chưa xác minh"; địa phương suy từ tên trường, không rõ thì ghi "Việt Nam"); gộp 3 trường bị tạo trùng vào hồ sơ cũ (HUS, UEF, Swinburne).
+
+## Bổ sung logo, đợt 4: tự động từ website (28/11/2026)
+
+- Thêm `tools/logo_candidates.py`: với mỗi hồ sơ có website nhưng chưa có logo, đọc trang chủ và gom ảnh ứng viên (logo khai báo trong dữ liệu schema.org, ảnh logo ở đầu trang, biểu tượng trang, ảnh chia sẻ; dự phòng bằng biểu tượng trang qua dịch vụ favicon của Google), xếp hạng và tạo trang duyệt `review.html` (xem mỗi ứng viên trên nền trắng và nền tối). Kết quả duyệt áp dụng bằng `tools/apply_logos.py`; địa chỉ ảnh gốc ghi vào `logos/sources.csv`.
+- 61 hồ sơ có website, chưa có logo: 35 có ứng viên, thêm 28 logo sau khi duyệt bằng mắt. Logo trắng (Haravan, DSEZA, Alicorn) đặt trên nền tối.
+- Không dùng: CMC (website ghi là cmcai.vn, trang sản phẩm C-OpenAI, không phải logo CMC), Smartos (ảnh đầu trang là logo khách hàng), I do Stem, Punkga.me, CĐ Bách Khoa Đà Nẵng, Firewatcher (chỉ có biểu tượng trang quá nhỏ hoặc bị cắt).
+- Tên miền không còn hoạt động: natif.vn (NATIF), avocaapp.com, bestaff.io, goldenphoenix.vn, teemazing.com (TMZ), deliveryheroventures.com, 1matrix.org, scex.vn, viettel.digital. Bizverse: bizverse.io đang là trang đỗ tên miền của GoDaddy. Các hồ sơ này cần kiểm tra lại website.
+- Trang chặn truy cập tự động hoặc quá thời gian (megatrip.vn, hsc.com.vn, antech.app, cyreneai.com, qsee.ai, autowork.vn, ybahcm.com.vn, …): chưa lấy, cần làm qua trình duyệt.
