@@ -5,6 +5,7 @@ Cách dùng:
 
 Mỗi dòng có `file` được thu về logos/<id>.webp như add_logo.py, và địa chỉ ảnh gốc
 được ghi vào logos/sources.csv để biết logo lấy từ đâu khi cần thay hoặc gỡ.
+Cột `bg` (không bắt buộc, vd "#222") đặt logo trắng lên nền tối. Ứng viên SVG cần cài cairosvg.
 """
 import csv, datetime, os, sys
 from add_logo import ROOT, save
@@ -23,7 +24,7 @@ def main():
         for row in csv.DictReader(open(sys.argv[1], encoding="utf-8")):
             if not row["file"]:
                 continue
-            print("Đã lưu", os.path.relpath(save(row["id"], os.path.join(src_dir, row["file"])), ROOT))
+            print("Đã lưu", os.path.relpath(save(row["id"], os.path.join(src_dir, row["file"]), row.get("bg") or None), ROOT))
             w.writerow([row["id"], row["url"], datetime.date.today().isoformat()])
 
 
