@@ -4,6 +4,8 @@ name:
 type: startup
 categories:
 - CN chế biến/ chế tạo
+sectors:
+- agrifood
 founded: 2020
 website: https://saketoancau.com
 address: 58/3A Hải Thượng Lãn Ông, phường Rạch Dừa, TP.Vũng Tàu

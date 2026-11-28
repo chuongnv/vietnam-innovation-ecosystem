@@ -4,6 +4,8 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+sectors:
+- ai
 address: 49 Ngõ 203 Kim Ngưu, Phường Thanh Lương, Quận Hai Bà Trưng, Thành Phố Hà Nội, TP. Hồ Chí Minh
 description:
   vi: Doanh nghiệp khoa học và công nghệ tại TP.HCM, được Sở KH&CN TP.HCM cấp giấy chứng nhận.

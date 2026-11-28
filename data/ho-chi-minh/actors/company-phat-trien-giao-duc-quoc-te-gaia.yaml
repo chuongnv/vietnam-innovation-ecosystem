@@ -4,6 +4,8 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+sectors:
+- edu
 address: 41C, Lê Đình Thám, Phường Tân Sơn Nhì, Thành phố Hồ Chí Minh
 description:
   vi: Doanh nghiệp khoa học và công nghệ tại TP.HCM, được Sở KH&CN TP.HCM cấp giấy chứng nhận.

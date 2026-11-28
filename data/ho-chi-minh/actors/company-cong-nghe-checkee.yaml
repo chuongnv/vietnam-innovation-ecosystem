@@ -4,6 +4,9 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+sectors:
+- ai
+- commerce
 address: 1.06 Tầng 1 (Trệt) Khu Thương Mại Dịch Vụ Chung Cư Asiana Capella, Số 184 Trần Văn Kiểu, Phường Bình Phú, TP. Hồ Chí Minh
 description:
   vi: Doanh nghiệp khoa học và công nghệ tại TP.HCM, được Sở KH&CN TP.HCM cấp giấy chứng nhận.

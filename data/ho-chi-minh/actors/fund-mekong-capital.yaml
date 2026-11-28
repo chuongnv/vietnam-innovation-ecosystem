@@ -2,6 +2,8 @@ id: fund-mekong-capital
 name:
   vi: Mekong Capital
 type: fund
+sectors:
+- commerce
 founded: 2022
 description_source:
   text: Phần mềm, CNTT 07-04-2022 Việt Nam Hồ Chí Minh, Hà Nội Rever team is in the coaching session hosted by Mekong Capital.

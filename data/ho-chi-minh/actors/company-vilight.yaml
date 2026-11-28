@@ -4,6 +4,8 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+sectors:
+- deeptech
 address: 623/4P, Cách Mạng Tháng Tám, Phường Xuân Hòa, TP. Hồ Chí Minh
 description:
   vi: Doanh nghiệp khoa học và công nghệ tại TP.HCM, được Sở KH&CN TP.HCM cấp giấy chứng nhận.

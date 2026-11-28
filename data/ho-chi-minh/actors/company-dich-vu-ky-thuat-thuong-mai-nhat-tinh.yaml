@@ -4,6 +4,8 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+sectors:
+- deeptech
 address: C7/17F7 Ấp 4A, Phạm Hùng, Phường Bình Hưng, Huyện Bình Chánh, Thành phố Hồ Chí Minh
 description:
   vi: Doanh nghiệp khoa học và công nghệ tại TP.HCM, được Sở KH&CN TP.HCM cấp giấy chứng nhận.

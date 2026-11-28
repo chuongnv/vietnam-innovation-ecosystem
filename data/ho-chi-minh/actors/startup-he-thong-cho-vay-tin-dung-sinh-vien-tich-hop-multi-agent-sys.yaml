@@ -4,6 +4,10 @@ name:
 type: startup
 categories:
 - Dịch vụ
+sectors:
+- fintech
+- ai
+- web3
 founded: 2025
 address: Hồ Chí Minh
 description:

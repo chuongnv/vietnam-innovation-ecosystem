@@ -4,6 +4,9 @@ name:
 type: company
 categories:
 - Social & Leisure
+sectors:
+- ai
+- marketing
 region: ho-chi-minh
 verification:
   level: unverified

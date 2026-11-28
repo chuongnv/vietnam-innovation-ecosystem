@@ -2,6 +2,9 @@ id: company-robert-bosch-engineering
 name:
   vi: Robert Bosch Engineering Việt Nam
 type: company
+sectors:
+- ai
+- deeptech
 founded: 2010
 region: ho-chi-minh
 verification:

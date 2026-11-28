@@ -4,6 +4,9 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+sectors:
+- health
+- deeptech
 address: Lô I-4B-2.1, Đường N3, Khu Công Nghệ Cao Thành Phố Hồ Chí Minh, Phường Long Bình, TP. Hồ Chí Minh
 description:
   vi: Doanh nghiệp khoa học và công nghệ tại TP.HCM, được Sở KH&CN TP.HCM cấp giấy chứng nhận.

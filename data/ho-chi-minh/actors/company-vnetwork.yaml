@@ -4,6 +4,8 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+sectors:
+- ai
 address: Phòng 23-6, Tầng 23 Tòa Nhà UOA Tower, Số 6 Tân Trào, Phường Tân Mỹ, TP. Hồ Chí Minh
 description:
   vi: Doanh nghiệp khoa học và công nghệ tại TP.HCM, được Sở KH&CN TP.HCM cấp giấy chứng nhận.

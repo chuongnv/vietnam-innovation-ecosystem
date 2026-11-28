@@ -4,6 +4,9 @@ name:
 type: startup
 categories:
 - Trung gian/môi giới
+sectors:
+- climate
+- ai
 founded: 2025
 website: https://heritaesgconnect.netlify.app
 address: Hồ Chí Minh

@@ -4,6 +4,10 @@ name:
 type: startup
 categories:
 - CN chế biến/ chế tạo
+sectors:
+- commerce
+- ai
+- deeptech
 founded: 2025
 address: TP.HCM
 description:

@@ -4,6 +4,9 @@ name:
 type: company
 categories:
 - Doanh nghiệp khoa học và công nghệ
+sectors:
+- fintech
+- ai
 address: I.102D, Nhà A, Khu Công Nghệ Phần Mềm, Đường Nội Bộ Đại Học Quốc Gia Thành Phố Hồ Chí Minh, Khu Phố 6, Phường Linh Xuân, TP. Hồ Chí Minh
 description:
   vi: Doanh nghiệp khoa học và công nghệ tại TP.HCM, được Sở KH&CN TP.HCM cấp giấy chứng nhận.

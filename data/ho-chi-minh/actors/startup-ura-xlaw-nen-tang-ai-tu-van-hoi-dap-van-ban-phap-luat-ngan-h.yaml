@@ -4,6 +4,9 @@ name:
 type: startup
 categories:
 - Dịch vụ
+sectors:
+- ai
+- fintech
 founded: 2025
 address: 267 Lý Thường Kiệt, Phường 15, Quận 11, TP.HCM
 description:
