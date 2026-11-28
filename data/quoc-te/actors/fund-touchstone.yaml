@@ -6,6 +6,7 @@ type: fund
 website: https://touchstone.vc/
 description:
   vi: Quỹ đầu tư mạo hiểm.
+  en: Venture capital fund.
 region: quoc-te
 verification:
   level: source_checked

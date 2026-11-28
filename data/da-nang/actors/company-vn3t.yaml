@@ -8,6 +8,7 @@ sectors:
 - agrifood
 description:
   vi: Nuôi tôm thông minh.
+  en: Smart shrimp farming.
 region: da-nang
 verification:
   level: unverified

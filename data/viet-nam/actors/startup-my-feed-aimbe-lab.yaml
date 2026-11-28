@@ -8,6 +8,7 @@ sectors:
 website: http://www.aimbelab.com
 description:
   vi: Cảm biến theo dõi lượng cám trong bồn chứa chăn nuôi, cảnh báo và đặt hàng qua điện thoại.
+  en: Sensors that monitor feed levels in livestock storage bins, with alerts and ordering via phone.
 region: viet-nam
 verification:
   level: source_checked

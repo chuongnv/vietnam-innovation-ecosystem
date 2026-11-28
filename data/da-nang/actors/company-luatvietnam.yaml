@@ -9,6 +9,7 @@ sectors:
 website: https://luatvietnam.vn
 description:
   vi: 'AI Công vụ: dữ liệu văn bản của LuatVietnam kết hợp mô hình ngôn ngữ lớn của MISA, kho gần 400.000 văn bản. Nhà cung cấp cho khu vực công, trình bày tại hội thảo 17/11/2026.'
+  en: 'AI Cong vu (Public Service AI): LuatVietnam legal-text data combined with MISA''s large language model, with a repository of nearly 400,000 documents. A provider for the public sector, presented at the workshop on 17 November 2026.'
 region: da-nang
 verification:
   level: unverified

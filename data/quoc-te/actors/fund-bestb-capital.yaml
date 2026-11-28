@@ -5,6 +5,7 @@ type: fund
 website: https://bestbcapital.vn/
 description:
   vi: Nguồn vốn cho doanh nghiệp Việt Nam do hệ sinh thái BestB quản lý.
+  en: Capital source for Vietnamese businesses, managed by the BestB ecosystem.
 region: quoc-te
 verification:
   level: source_checked

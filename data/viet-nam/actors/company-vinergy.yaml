@@ -10,6 +10,7 @@ sectors:
 website: https://vinergy.vn
 description:
   vi: 'IoT, AIoT: hệ thống quản lý năng lượng và kiểm tra nhiệt bằng drone.'
+  en: 'IoT, AIoT: energy management systems and drone-based thermal inspection.'
 region: viet-nam
 verification:
   level: unverified

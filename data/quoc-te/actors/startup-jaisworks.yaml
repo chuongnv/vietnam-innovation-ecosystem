@@ -10,6 +10,7 @@ sectors:
 website: https://www.jaisworks.com/
 description:
   vi: 'MimicForge: AI vật lý nâng cấp robot công nghiệp thành hệ tự hành bằng học bắt chước.'
+  en: 'MimicForge: physical AI that upgrades industrial robots into autonomous systems through imitation learning.'
 region: quoc-te
 verification:
   level: unverified

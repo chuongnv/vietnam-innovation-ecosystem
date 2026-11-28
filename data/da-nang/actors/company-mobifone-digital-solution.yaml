@@ -8,6 +8,7 @@ sectors:
 - deeptech
 description:
   vi: Đối tác công nghệ chiến lược của XBStation về kết nối UAV.
+  en: Strategic technology partner of XBStation for UAV connectivity.
 region: da-nang
 verification:
   level: unverified

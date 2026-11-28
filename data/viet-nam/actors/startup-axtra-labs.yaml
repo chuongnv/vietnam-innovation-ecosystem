@@ -7,6 +7,7 @@ type: startup
 website: https://www.axtralabs.com/
 description:
   vi: 'XEye: nhóm nghiên cứu chuyển kết quả học thuật thành công nghệ ứng dụng.'
+  en: 'XEye: a research group turning academic results into applied technology.'
 region: viet-nam
 verification:
   level: unverified

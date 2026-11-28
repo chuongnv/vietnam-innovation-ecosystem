@@ -16,5 +16,6 @@ sources:
 legacy_id: s52
 description:
   vi: 'Metadap: nền tảng mã hóa tài sản (tokenization).'
+  en: 'Metadap: an asset tokenisation platform.'
 alt_names:
 - Metadap

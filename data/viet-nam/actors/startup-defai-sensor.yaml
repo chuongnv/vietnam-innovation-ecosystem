@@ -9,6 +9,7 @@ sectors:
 website: https://defaisensor.io/
 description:
   vi: Hạ tầng tín hiệu giao dịch, biến dữ liệu trên chuỗi thành tín hiệu kiểm chứng được và tự động hóa.
+  en: Trading signal infrastructure that turns on-chain data into verifiable signals and automation.
 region: viet-nam
 verification:
   level: source_checked

@@ -10,6 +10,7 @@ sectors:
 website: https://fizibox.vn
 description:
   vi: Cảm biến cháy dùng AI tại biên và mô hình thị giác để phát hiện sớm.
+  en: Fire sensor using edge AI and vision models for early detection.
 region: viet-nam
 verification:
   level: unverified

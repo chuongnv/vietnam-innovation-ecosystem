@@ -7,6 +7,7 @@ type: startup
 address: Lot B5, Road 9, Da Nang High-Tech Park, Đà Nẵng
 description:
   vi: Nghiên cứu giống và quy trình nuôi vi tảo tự động hóa, phù hợp khí hậu Việt Nam.
+  en: Research on microalgae strains and automated cultivation processes suited to Vietnam's climate.
 region: da-nang
 verification:
   level: unverified

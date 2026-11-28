@@ -14,6 +14,7 @@ sectors:
 website: https://aquax.vn
 description:
   vi: Công nghệ nuôi tôm thông minh kết hợp phần mềm và IoT.
+  en: Smart shrimp farming technology combining software and IoT.
 region: da-nang
 verification:
   level: source_checked

@@ -6,6 +6,7 @@ alt_names:
 type: accelerator
 description:
   vi: Chương trình tăng tốc khởi nghiệp giai đoạn sớm.
+  en: Early-stage startup accelerator programme.
 region: ha-noi
 verification:
   level: source_checked

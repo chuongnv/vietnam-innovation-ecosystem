@@ -7,6 +7,7 @@ sectors:
 website: https://www.alicorn-space.ai/
 description:
   vi: Tác tử "AI vật lý" tự động hóa vận hành không gian thực, giải bài toán thiếu lao động.
+  en: '"Physical AI" agents automating the operation of real-world spaces, addressing labour shortages.'
 region: viet-nam
 verification:
   level: source_checked

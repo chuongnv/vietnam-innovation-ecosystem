@@ -9,6 +9,7 @@ sectors:
 - ai
 description:
   vi: Chuyên gia trên HOIP, lĩnh vực phần mềm, CNTT.
+  en: 'Expert on HOIP – fields: software, IT.'
 region: ho-chi-minh
 verification:
   level: source_checked

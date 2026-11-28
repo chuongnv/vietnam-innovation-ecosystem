@@ -8,6 +8,7 @@ sectors:
 - tourism
 description:
   vi: Robot cho thuê dạng dịch vụ kèm nền tảng phần mềm AI, bắt đầu từ giáo dục và khách sạn, nhà hàng.
+  en: Robots-as-a-service rental with an AI software platform, starting with education and hotels and restaurants.
 region: viet-nam
 verification:
   level: source_checked

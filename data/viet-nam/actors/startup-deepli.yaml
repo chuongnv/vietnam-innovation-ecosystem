@@ -5,6 +5,7 @@ type: startup
 website: https://www.deepli.io/
 description:
   vi: Hệ thống truy xuất tri thức doanh nghiệp dùng mô hình ngôn ngữ lớn, trả lời chính xác bằng tiếng Việt.
+  en: Enterprise knowledge retrieval system using large language models, giving accurate answers in Vietnamese.
 region: viet-nam
 verification:
   level: unverified

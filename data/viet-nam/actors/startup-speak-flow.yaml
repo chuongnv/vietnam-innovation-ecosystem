@@ -8,6 +8,7 @@ sectors:
 website: https://maienglish.edu.vn/
 description:
   vi: Ứng dụng học tiếng Anh với giáo viên ảo "Mai", xây dựng từ một giáo viên thật nhiều năm kinh nghiệm.
+  en: English-learning app with a virtual teacher, "Mai", built from a real teacher with many years of experience.
 region: viet-nam
 verification:
   level: source_checked

@@ -9,6 +9,7 @@ sectors:
 - health
 description:
   vi: Hệ sinh thái y tế dự phòng và cấp cứu thông minh.
+  en: Smart preventive and emergency healthcare ecosystem.
 region: da-nang
 verification:
   level: unverified

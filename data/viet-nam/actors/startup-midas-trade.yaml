@@ -7,6 +7,7 @@ sectors:
 - fintech
 description:
   vi: '"Superexchange" trên mạng Base giúp tìm và giao dịch tài sản số. sqrDAO đầu tư pre-seed.'
+  en: A "superexchange" on the Base network for finding and trading digital assets. sqrDAO invested at pre-seed.
 region: viet-nam
 verification:
   level: source_checked

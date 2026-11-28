@@ -9,6 +9,7 @@ sectors:
 website: https://pinkpacker.com
 description:
   vi: 'Hệ điều hành giao dịch thịt toàn cầu: phòng giao dịch, chứng từ và ghép nối bằng AI.'
+  en: 'A global meat trading operating system: trading desk, documentation and AI-powered matching.'
 region: quoc-te
 verification:
   level: unverified

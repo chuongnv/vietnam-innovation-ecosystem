@@ -7,6 +7,7 @@ sectors:
 address: 41 Bui Vien, Đà Nẵng
 description:
   vi: Kiểm thử an toàn phần mềm cho đơn vị bên ngoài và dịch vụ tuyển dụng.
+  en: Software security testing for external clients and recruitment services.
 region: da-nang
 verification:
   level: source_checked

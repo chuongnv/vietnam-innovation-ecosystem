@@ -10,6 +10,7 @@ sectors:
 website: https://altibase.com/en/
 description:
   vi: Cơ sở dữ liệu lai kết hợp xử lý trong bộ nhớ và lưu trữ trên đĩa.
+  en: Hybrid database combining in-memory processing and on-disk storage.
 region: viet-nam
 verification:
   level: unverified

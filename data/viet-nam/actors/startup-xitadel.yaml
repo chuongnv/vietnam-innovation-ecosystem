@@ -7,6 +7,7 @@ sectors:
 - fintech
 description:
   vi: 'Giao thức trái phiếu Web3: dự án sau TGE huy động vốn không cần bán token; nhà đầu tư nhận lợi suất cố định. sqrDAO đầu tư pre-seed.'
+  en: 'Web3 bond protocol: post-TGE projects raise capital without selling tokens; investors receive fixed yields. sqrDAO invested at pre-seed.'
 region: viet-nam
 verification:
   level: source_checked

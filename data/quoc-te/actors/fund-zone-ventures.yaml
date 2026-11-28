@@ -5,6 +5,7 @@ type: fund
 website: https://dmzventuresvietnam.com/
 description:
   vi: 'DMZ Vietnam (trước là Zone Startups Vietnam): chương trình tăng tốc kèm quỹ đầu tư hạt giống.'
+  en: 'DMZ Vietnam (formerly Zone Startups Vietnam): an accelerator programme with a seed investment fund.'
 region: quoc-te
 verification:
   level: source_checked

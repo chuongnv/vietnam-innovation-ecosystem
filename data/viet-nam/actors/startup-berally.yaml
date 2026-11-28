@@ -7,6 +7,7 @@ sectors:
 status: inactive
 description:
   vi: Mạng xã hội phi tập trung kết nối người dùng Web3 theo sở thích. Đã ngừng do điều kiện thị trường (theo sqrDAO).
+  en: A decentralised social network connecting Web3 users by interest. Discontinued due to market conditions (according to sqrDAO).
 region: viet-nam
 verification:
   level: source_checked

@@ -9,6 +9,7 @@ sectors:
 website: https://dayladau.com
 description:
   vi: Đặt phòng homestay, căn hộ theo giờ.
+  en: Hourly booking of homestays and apartments.
 region: viet-nam
 verification:
   level: unverified

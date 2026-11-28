@@ -16,3 +16,4 @@ alt_names:
 - PIASPACE
 description:
   vi: Phân tích video bằng AI, phát hiện và cảnh báo tình huống bất thường như cháy, khói qua camera, drone, robot.
+  en: AI video analytics detecting and alerting on abnormal situations such as fire and smoke via cameras, drones and robots.

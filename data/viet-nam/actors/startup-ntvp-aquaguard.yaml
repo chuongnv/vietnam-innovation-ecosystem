@@ -14,3 +14,4 @@ alt_names:
 - HỆ THỐNG KIỂM SOÁT VÀ CẢNH BÁO MÔI TRƯỜNG NƯỚC TRONG NUÔI TRỒNG THUỶ SẢN NTVP AQUAGUARD
 description:
   vi: Theo dõi chất lượng nước nuôi trồng thủy sản theo thời gian thực và cảnh báo khi vượt ngưỡng.
+  en: Real-time aquaculture water quality monitoring with alerts when thresholds are exceeded.

@@ -7,6 +7,7 @@ sectors:
 website: https://polypay.pro/
 description:
   vi: Trả lương bảo mật cho DAO và công ty crypto, dùng bằng chứng không tiết lộ (zero-knowledge).
+  en: Confidential payroll for DAOs and crypto companies, using zero-knowledge proofs.
 region: viet-nam
 verification:
   level: source_checked

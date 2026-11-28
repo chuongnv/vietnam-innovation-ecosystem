@@ -10,6 +10,7 @@ sectors:
 website: https://vuatho.com/
 description:
   vi: Ứng dụng dùng AI kết nối khách hàng cần dịch vụ sửa chữa, bảo trì tại nhà với thợ kỹ thuật.
+  en: AI-powered app connecting customers who need home repair and maintenance services with technicians.
 region: viet-nam
 verification:
   level: unverified

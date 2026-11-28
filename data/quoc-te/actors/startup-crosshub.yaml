@@ -11,6 +11,7 @@ sectors:
 website: https://crosshub.ai
 description:
   vi: Định danh số và thanh toán dựa trên AI và chuỗi khối (Smart ID).
+  en: Digital identity and payments based on AI and blockchain (Smart ID).
 region: quoc-te
 verification:
   level: unverified

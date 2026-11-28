@@ -6,6 +6,7 @@ alt_names:
 type: government
 description:
   vi: 'Đầu mối quốc gia về hệ sinh thái khởi nghiệp thuộc Bộ KH&CN: triển khai Đề án 844, công bố báo cáo hệ sinh thái hằng năm, tổ chức Techfest.'
+  en: 'National focal point for the startup ecosystem under the Ministry of Science and Technology: implements Project 844, publishes an annual ecosystem report and organises Techfest.'
 region: ha-noi
 verification:
   level: source_checked

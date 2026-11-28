@@ -7,6 +7,7 @@ status: active
 website: https://valsea.ai
 description:
   vi: Nền tảng hiểu giọng nói cho các ngôn ngữ châu Á, gồm tiếng Việt, Bahasa, Singlish và hơn 150 ngôn ngữ khác.
+  en: A speech understanding platform for Asian languages, including Vietnamese, Bahasa, Singlish and more than 150 other languages.
 region: da-nang
 verification:
   level: partner_verified

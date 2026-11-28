@@ -8,6 +8,7 @@ website: http://fystack.io/
 linkedin: https://www.linkedin.com/company/fystack
 description:
   vi: Hạ tầng lưu ký tài sản số an toàn, cung cấp API cho nhà phát triển, ẩn đi độ phức tạp quản lý khóa.
+  en: Secure digital asset custody infrastructure, providing APIs for developers and abstracting away the complexity of key management.
 region: viet-nam
 verification:
   level: source_checked

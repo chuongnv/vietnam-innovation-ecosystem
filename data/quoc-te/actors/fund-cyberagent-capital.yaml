@@ -4,6 +4,7 @@ name:
 type: fund
 description:
   vi: Quỹ đầu tư mạo hiểm của tập đoàn CyberAgent (Nhật Bản).
+  en: The venture capital fund of the CyberAgent group (Japan).
 region: quoc-te
 verification:
   level: source_checked

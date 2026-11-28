@@ -7,6 +7,7 @@ type: startup
 address: 132-136 Le Dinh Ly, Đà Nẵng
 description:
   vi: Phát triển ứng dụng di động, hỗ trợ tìm thuê nhà và văn phòng.
+  en: Mobile app development, supporting home and office rental search.
 region: da-nang
 verification:
   level: unverified

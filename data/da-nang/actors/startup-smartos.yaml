@@ -21,6 +21,7 @@ contact_phone: +84 905 969 648
 address: 280 Trần Hưng Đạo, phường An Hải, Đà Nẵng
 description:
   vi: 'Phần mềm quản lý bất động sản cho thuê (PMS) cho văn phòng, coworking, căn hộ, nhà trọ và chuỗi vận hành: đặt chỗ theo sơ đồ tầng, hợp đồng, hóa đơn và gạch nợ tự động, check-in, thanh toán, quản lý hội viên, cư dân; kèm cổng đặt chỗ Smartos Booking, web và app tùy biến (Bespoke), báo cáo danh mục cho chủ đầu tư (Portfolio). Văn phòng tại Đà Nẵng và TP.HCM; có giao diện tiếng Anh, tiếng Nhật.'
+  en: 'Rental property management software (PMS) for offices, coworking, apartments, boarding houses and operator chains: floor-plan booking, contracts, automated invoicing and reconciliation, check-in, payments, member and resident management; Smartos Booking portal, custom web/app (Bespoke), investor portfolio reports (Portfolio). Offices in Da Nang and Ho Chi Minh City; English and Japanese UI.'
 case_studies:
 - title: 'Đại Thắng Holdings: quản lý 7 tòa nhà trên một hệ thống'
   url: https://smartos.space/case-study/dai-thang-holdings/

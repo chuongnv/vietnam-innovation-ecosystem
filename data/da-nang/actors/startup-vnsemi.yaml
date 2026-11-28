@@ -9,6 +9,7 @@ sectors:
 - deeptech
 description:
   vi: Phần mềm, máy móc, kiểm thử và đóng gói vi mạch.
+  en: Software, machinery, testing and packaging for integrated circuits.
 region: da-nang
 verification:
   level: unverified

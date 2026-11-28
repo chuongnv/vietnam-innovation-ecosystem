@@ -10,6 +10,7 @@ sectors:
 website: https://vietrocare.vn
 description:
   vi: Nền tảng dịch vụ kỹ thuật tại nhà kết hợp trợ lý VTR Bot.
+  en: An at-home technical services platform combined with the VTR Bot assistant.
 region: da-nang
 verification:
   level: unverified

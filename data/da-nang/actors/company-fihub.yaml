@@ -17,3 +17,4 @@ sources:
 legacy_id: d76
 description:
   vi: API dạng nhãn trắng cho doanh nghiệp tích hợp dịch vụ chuyển tiền, nạp rút và thương mại.
+  en: White-label API for businesses to integrate money transfer, deposit/withdrawal and commerce services.

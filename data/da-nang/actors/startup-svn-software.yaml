@@ -9,6 +9,7 @@ sectors:
 - ai
 description:
   vi: Giải pháp AI cho vận hành hàng hải.
+  en: AI solutions for maritime operations.
 region: da-nang
 verification:
   level: unverified

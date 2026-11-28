@@ -8,6 +8,7 @@ sectors:
 website: https://reasonary.ai
 description:
   vi: Trợ lý AI dự báo sự kiện, hỗ trợ cá nhân ra quyết định tài chính.
+  en: AI assistant forecasting events, helping individuals make financial decisions.
 region: viet-nam
 verification:
   level: source_checked

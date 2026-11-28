@@ -15,3 +15,4 @@ alt_names:
 - MAILGUARD-AI CHO MỘT TƯƠNG LAI AN TOÀN SỐ MAILGUARD
 description:
   vi: Phát hiện dấu hiệu lừa đảo trực tuyến bằng AI qua email, đường dẫn và tin nhắn.
+  en: AI detection of online scam signs in emails, links and messages.

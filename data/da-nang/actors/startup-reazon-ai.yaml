@@ -9,6 +9,7 @@ sectors:
 - ai
 description:
   vi: Hệ thống suy luận từ sự kiện và dữ liệu có cấu trúc.
+  en: A reasoning system based on events and structured data.
 region: da-nang
 verification:
   level: unverified

@@ -11,6 +11,7 @@ sectors:
 website: https://doctotek.com
 description:
   vi: 'Học trực tuyến cho nhân viên y tế: học vi mô, y học chứng cứ và AI.'
+  en: 'Online learning for healthcare workers: microlearning, evidence-based medicine and AI.'
 region: viet-nam
 verification:
   level: unverified

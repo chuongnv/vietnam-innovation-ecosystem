@@ -6,6 +6,7 @@ alt_names:
 type: government
 description:
   vi: Quản lý chính sách khởi nghiệp của TP.HCM, quản lý SIHUB và BSSC, đồng tổ chức InnoEx.
+  en: Manages Ho Chi Minh City's startup policy, manages SIHUB and BSSC, and co-organises InnoEx.
 region: ho-chi-minh
 verification:
   level: source_checked

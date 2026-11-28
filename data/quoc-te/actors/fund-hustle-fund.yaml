@@ -5,6 +5,7 @@ type: fund
 website: https://www.hustlefund.vc/
 description:
   vi: Nhà đầu tư; tham gia các vòng vốn của Dat Bike.
+  en: Investor; participated in Dat Bike's funding rounds.
 region: quoc-te
 verification:
   level: source_checked

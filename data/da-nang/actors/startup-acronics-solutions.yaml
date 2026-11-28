@@ -10,6 +10,7 @@ website: https://acronicssolutions.com/
 address: 128 Thanh Thuy, Đà Nẵng
 description:
   vi: Phân phối sản phẩm tăng tốc xử lý cảm biến, lưu trữ, mạng và tính toán dùng công nghệ FPGA (BittWare); đã phát triển thiết bị chuyển mạch SDN.
+  en: Distributes FPGA-based acceleration products for sensor processing, storage, networking and computing (BittWare); has developed an SDN switching device.
 region: da-nang
 website_status: Hoạt động
 verification:

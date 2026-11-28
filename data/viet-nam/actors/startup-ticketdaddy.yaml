@@ -8,6 +8,7 @@ sectors:
 website: https://ticketdaddy.io/
 description:
   vi: Nền tảng gộp tìm kiếm, bán vé, thanh toán và quản lý cho sự kiện, du lịch và lưu trú.
+  en: Platform combining search, ticketing, payment and management for events, travel and accommodation.
 region: viet-nam
 verification:
   level: source_checked

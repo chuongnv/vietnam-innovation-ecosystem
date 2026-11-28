@@ -4,6 +4,7 @@ name:
 type: accelerator
 description:
   vi: Chương trình tăng tốc khởi nghiệp, đối tác mạng lưới NSSC.
+  en: Startup acceleration programme, NSSC network partner.
 region: viet-nam
 verification:
   level: source_checked

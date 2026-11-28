@@ -11,6 +11,7 @@ sectors:
 website: https://openmind.vn
 description:
   vi: 'OPENMIND EYE: robot thông minh tự động hóa chuỗi cung ứng.'
+  en: 'OPENMIND EYE: smart robots automating the supply chain.'
 region: viet-nam
 verification:
   level: unverified

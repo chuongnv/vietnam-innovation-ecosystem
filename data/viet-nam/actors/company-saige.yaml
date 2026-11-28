@@ -9,6 +9,7 @@ sectors:
 website: https://saige.ai
 description:
   vi: Phần mềm thị giác máy tính AI kiểm tra chất lượng sản xuất.
+  en: AI computer vision software for manufacturing quality inspection.
 region: viet-nam
 verification:
   level: unverified

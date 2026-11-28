@@ -10,6 +10,7 @@ sectors:
 - deeptech
 description:
   vi: Chip bán dẫn tối ưu cho ứng dụng năng lượng mặt trời.
+  en: Semiconductor chips optimised for solar energy applications.
 region: da-nang
 verification:
   level: unverified

@@ -9,6 +9,7 @@ sectors:
 website: https://ucall.vn
 description:
   vi: Tổng đài viên AI tự động gọi đi và nghe gọi đến bằng giọng tiếng Việt tự nhiên.
+  en: AI call centre agent that automatically makes outbound calls and answers inbound calls in natural Vietnamese speech.
 region: viet-nam
 verification:
   level: unverified

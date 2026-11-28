@@ -10,6 +10,7 @@ sectors:
 website: https://kokio.app
 description:
   vi: Ứng dụng eSIM chú trọng quyền riêng tư, dùng ở hơn 200 quốc gia, thanh toán bằng tiền pháp định hoặc crypto.
+  en: A privacy-focused eSIM app usable in more than 200 countries, with payment in fiat currency or crypto.
 region: viet-nam
 verification:
   level: source_checked

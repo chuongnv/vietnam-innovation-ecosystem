@@ -7,6 +7,7 @@ sectors:
 status: active
 description:
   vi: 'Phần mềm quản lý trạm cân: tự động lấy số cân, khóa dữ liệu chống sửa, tích hợp phần cứng sẵn có, dữ liệu thuộc về khách hàng.'
+  en: 'Weighbridge management software: automatic weight capture, tamper-proof data locking, integration with existing hardware; data belongs to the customer.'
 history:
 - date: '2026-11-27'
   text: Top 10 Khóa 4 Chương trình Tăng tốc Co4Growth "Vững Tài chính – Sáng Niềm tin" (SVF), thuyết trình gọi vốn tại buổi tổng kết ở Đà Nẵng.

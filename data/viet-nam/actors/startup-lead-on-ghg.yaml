@@ -8,6 +8,7 @@ sectors:
 website: https://ghgtrack.vn/
 description:
   vi: Phần mềm SaaS đo lường, quản lý và báo cáo phát thải khí nhà kính theo các chuẩn quốc tế như ISO 14064.
+  en: SaaS software for measuring, managing and reporting greenhouse gas emissions under international standards such as ISO 14064.
 region: viet-nam
 verification:
   level: source_checked

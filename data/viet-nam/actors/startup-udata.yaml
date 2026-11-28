@@ -9,6 +9,7 @@ sectors:
 website: https://udata.ai
 description:
   vi: Nền tảng AI hỗ trợ kỹ thuật, xử lý sự cố và tối ưu vận hành nhà máy.
+  en: AI platform supporting technical work, troubleshooting and optimising factory operations.
 region: viet-nam
 verification:
   level: unverified

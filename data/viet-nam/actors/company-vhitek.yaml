@@ -9,6 +9,7 @@ sectors:
 website: https://vhitek.vn
 description:
   vi: Thanh toán không tiền mặt và quản lý từ xa cho tiệm giặt sấy tự động.
+  en: Cashless payments and remote management for self-service laundromats.
 region: viet-nam
 verification:
   level: unverified

@@ -7,6 +7,7 @@ type: startup
 website: https://onepiano.vn
 description:
   vi: Mô hình học piano lịch linh hoạt, ứng dụng công nghệ trong vận hành và giảng dạy.
+  en: Flexible-schedule piano learning model, applying technology in operations and teaching.
 region: viet-nam
 verification:
   level: unverified

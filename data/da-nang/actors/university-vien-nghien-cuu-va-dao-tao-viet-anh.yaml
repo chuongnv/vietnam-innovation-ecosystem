@@ -15,6 +15,7 @@ coordinates:
 coordinates_source: OpenStreetMap Nominatim 11/2026, số nhà
 description:
   vi: Maker space MISUD.
+  en: MISUD maker space.
 region: da-nang
 verification:
   level: unverified
